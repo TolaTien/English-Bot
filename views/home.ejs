@@ -1,0 +1,38 @@
+<%- include("partials/head", { title: "Tổng quan | TuVungTOEIC", active: "home" }) %>
+
+<section class="card">
+  <div class="ct">📊 Dashboard học từ vựng</div>
+  <div id="err" class="err hidden"></div>
+  <div id="ld" class="ld">
+    <div class="ld-ring"></div>
+    <div>Đang tải dữ liệu từ Google Sheet...</div>
+  </div>
+  <div id="content" class="hidden">
+    <div class="stats">
+      <div class="stat"><div class="sn" id="sTotal">0</div><div class="sl">Tổng từ</div></div>
+      <div class="stat"><div class="sn" id="sNew">0</div><div class="sl">Từ mới</div></div>
+      <div class="stat"><div class="sn" id="sDone">0</div><div class="sl">Done</div></div>
+      <div class="stat"><div class="sn" id="sTodo">0</div><div class="sl">Chưa done</div></div>
+    </div>
+  </div>
+</section>
+
+<section class="card hidden" id="newPanel">
+  <div style="display:flex;align-items:center;justify-content:space-between;gap:10px;">
+    <div class="ct" style="margin-bottom:0;">✨ Từ mới phát hiện</div>
+    <span class="badge" id="newBadge"></span>
+  </div>
+  <div id="newList" style="margin-top:12px;"></div>
+  <div class="brow" style="margin-top:14px;">
+    <a class="btn p" href="/quiz?mode=daily">🚀 Quiz từ mới</a>
+  </div>
+</section>
+
+<section class="card hidden" id="topicPanel">
+  <div class="ct">📚 Theo chủ đề</div>
+  <div id="topicList"></div>
+</section>
+
+<script src="/js/home.js"></script>
+
+<%- include("partials/foot") %>

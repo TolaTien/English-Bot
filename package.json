@@ -1,0 +1,28 @@
+{
+  "name": "english-bot",
+  "version": "1.0.0",
+  "description": "English vocabulary quiz app from a fixed Google Sheet source",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "snapshot-daily": "node src/jobs/snapshotJob.js",
+    "send-daily-quiz": "node src/jobs/sendDailyQuizEmailJob.js",
+    "daily-quiz": "npm run send-daily-quiz",
+    "test": "echo \"No tests configured\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.16.0",
+    "dotenv": "^17.4.2",
+    "ejs": "^5.0.2",
+    "express": "^5.2.1",
+    "nodemailer": "^8.0.7",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

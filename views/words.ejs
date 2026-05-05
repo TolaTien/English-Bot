@@ -1,0 +1,27 @@
+<%- include("partials/head", { title: "Từ vựng | TuVungTOEIC", active: "words" }) %>
+
+<section class="card">
+  <div class="ct">📋 Danh sách từ vựng</div>
+  <div class="filters">
+    <input type="text" id="search" placeholder="🔍 Tìm từ, nghĩa, phát âm..." />
+    <select id="topicFilter"><option value="">Tất cả chủ đề</option></select>
+    <select id="statusFilter">
+      <option value="">Tất cả</option>
+      <option value="done">✓ Done</option>
+      <option value="undone">Chưa done</option>
+    </select>
+  </div>
+  <div id="wordLabel" class="helper"></div>
+  <div class="twrap">
+    <table>
+      <thead>
+        <tr><th>#</th><th>Từ mới</th><th>Phát âm</th><th>Loại</th><th>Nghĩa TV</th><th>Chủ đề</th><th>Trạng thái</th></tr>
+      </thead>
+      <tbody id="wordTable"></tbody>
+    </table>
+  </div>
+</section>
+
+<script src="/js/words.js"></script>
+
+<%- include("partials/foot") %>

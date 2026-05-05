@@ -1,0 +1,269 @@
+{
+  "updatedAt": "2026-05-05T10:08:00.748Z",
+  "words": [
+    {
+      "term": "approve",
+      "pronunciation": "/əˈpruːv/",
+      "type": "v",
+      "meaning": "chấp thuận, phê duyệt",
+      "example": "The manager approved the budget.",
+      "exampleMeaning": "Người quản lý đã phê duyệt ngân sách.",
+      "topic": "Văn phòng",
+      "status": "Done",
+      "note": "approve → approval (n)"
+    },
+    {
+      "term": "recognize",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Nhận biết, nhận ra",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "Done",
+      "note": ""
+    },
+    {
+      "term": "comprehention",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Sự hiểu",
+      "example": "After reading the passage, the teacher asked questions to test the children’s comprehension.",
+      "exampleMeaning": "Sau khi đọc đoạn văn, giáo viên hỏi các câu hỏi đểm kiểm tra độ hiểu biết của những đứa trẻ",
+      "topic": "Random",
+      "status": "Done",
+      "note": ""
+    },
+    {
+      "term": "strategy",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Chiến lược",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": "strategy → strategies"
+    },
+    {
+      "term": "expose",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Phơi ra/ để lộ ra/ tiếp xúc",
+      "example": "The plaster on the walls has been removed to expose the original bricks underneath.",
+      "exampleMeaning": "Lớp vữa trát trên tường đã được loại bỏ để lộ ra những viên gạch nguyên bản bên dưới.",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "several",
+      "pronunciation": "",
+      "type": "adj",
+      "meaning": "nhiều",
+      "example": "I've seen \"Gone with the Wind\" several times.",
+      "exampleMeaning": "Tôi đã xem \"Cuốn theo chiều gió\" nhiều lần rồi.",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "prefix",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Tiền tố",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "suffix",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Hậu tố",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "reunite",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Hòa giải/ Đoàn tụ",
+      "example": "Sarah was finally reunited with her children at the airport.",
+      "exampleMeaning": "Cuối cùng Sarah cũng được đoàn tụ với các con của mình tại sân bay.",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "deliverance",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Sự giải thoát",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "independence",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Độc lập",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "inspector",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Thanh tra",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "buddhism",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Phật giáo",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "capable",
+      "pronunciation": "",
+      "type": "adj",
+      "meaning": "Có khả năng/ có năng lực",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "careless",
+      "pronunciation": "",
+      "type": "adj",
+      "meaning": "Bất cẩn",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "refrigerate",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Làm lạnh",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "memorize",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "ghi nhớ",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "lengthen",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Kéo dài",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "word families",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Họ từ vựng",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "dependable",
+      "pronunciation": "/dɪˈpen.də.bəl/",
+      "type": "adj",
+      "meaning": "Đáng tin cậy",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "juornal",
+      "pronunciation": "/ˈdʒɜː.nəl/",
+      "type": "n",
+      "meaning": "Nhật ký/ tạp chí",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "synonym",
+      "pronunciation": "/ˈsɪn.ə.nɪm/",
+      "type": "n",
+      "meaning": "Từ đồng nghĩa",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "aside (from)",
+      "pronunciation": "",
+      "type": "adv",
+      "meaning": "Ngoài ra",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "summary",
+      "pronunciation": "/ˈsʌm.ər.i/",
+      "type": "n",
+      "meaning": "Bản tóm tắt",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    }
+  ]
+}

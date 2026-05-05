@@ -1,0 +1,79 @@
+<%- include("partials/head", { title: "Quiz | TuVungTOEIC", active: "quiz" }) %>
+
+<section class="card" id="setupCard">
+  <div class="ct">🎯 Tạo bài quiz</div>
+
+  <div class="sr">
+    <span class="sl2">Số từ (pool: <span id="poolSize">0</span> từ)</span>
+    <div class="srow">
+      <input type="range" id="countSlider" min="5" max="50" value="<%= defaultCount %>" step="1" />
+      <div class="sv" id="countLabel"><%= defaultCount %></div>
+    </div>
+  </div>
+
+  <div class="sr">
+    <span class="sl2">Lọc chủ đề</span>
+    <select id="quizTopic" class="inp-full">
+      <option value="">Tất cả chủ đề</option>
+    </select>
+  </div>
+
+  <div class="sr">
+    <span class="sl2">Trạng thái</span>
+    <div class="rg">
+      <label class="rl on"><input type="radio" name="quizStatus" value="all" checked /> Tất cả</label>
+      <label class="rl"><input type="radio" name="quizStatus" value="done" /> Chỉ Done ✓</label>
+      <label class="rl"><input type="radio" name="quizStatus" value="undone" /> Chưa Done</label>
+    </div>
+  </div>
+
+  <div class="sr">
+    <span class="sl2">Loại câu hỏi</span>
+    <div class="rg">
+      <label class="rl on"><input type="radio" name="quizType" value="mixed" checked /> 🔀 Hỗn hợp</label>
+      <label class="rl"><input type="radio" name="quizType" value="w2m" /> 🇻🇳 Từ → Nghĩa</label>
+      <label class="rl"><input type="radio" name="quizType" value="m2w" /> 🇬🇧 Nghĩa → Từ</label>
+    </div>
+  </div>
+
+  <div class="brow">
+    <button class="btn p" id="startQuizBtn">🚀 Bắt đầu quiz</button>
+  </div>
+  <div id="setupError" class="err hidden" style="margin-top:12px;"></div>
+</section>
+
+<section id="quizCard" class="card hidden">
+  <div class="qtop">
+    <div class="qn">Câu <span id="qCurrent">1</span>/<span id="qTotal">10</span></div>
+    <div class="qpt">✓ <span id="qScore">0</span> đúng</div>
+  </div>
+  <div class="prog"><div class="pf" id="qProgress"></div></div>
+
+  <div class="qlbl" id="qLabel"></div>
+  <div class="qw" id="qWord"></div>
+  <div class="qp" id="qPronunciation"></div>
+  <div id="qTags"></div>
+  <div class="qex hidden" id="qExample"></div>
+  <div class="opts" id="qOptions"></div>
+  <button class="btn p hidden" id="nextBtn">Câu tiếp theo →</button>
+</section>
+
+<section id="resultCard" class="card hidden">
+  <div class="rh">
+    <div class="rscore" id="resultScore">0/0</div>
+    <div class="rpct" id="resultPct"></div>
+    <div class="rmsg" id="resultMsg"></div>
+  </div>
+  <div class="brow" style="justify-content:center;margin-top:12px;">
+    <button class="btn p" id="retryBtn">🔄 Làm lại</button>
+    <a class="btn" href="/quiz">🎯 Quiz mới</a>
+  </div>
+  <div class="ris" id="resultItems" style="margin-top:16px;"></div>
+</section>
+
+<script>
+  window.quizInitialMode = "<%= mode %>";
+</script>
+<script src="/js/quiz.js"></script>
+
+<%- include("partials/foot") %>

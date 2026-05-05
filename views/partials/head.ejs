@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="hdr">
+        <a href="/" class="logo">TuVung<em>TOEIC</em></a>
+        <a href="/quiz" class="btn p">🎯 Quiz ngay</a>
+      </header>
+      <nav class="nav">
+        <a href="/" class="nb <%= active === 'home' ? 'on' : '' %>">🏠 Tổng quan</a>
+        <a href="/words" class="nb <%= active === 'words' ? 'on' : '' %>">📋 Từ vựng</a>
+        <a href="/daily" class="nb <%= active === 'daily' ? 'on' : '' %>">✨ Từ mới</a>
+        <a href="/quiz" class="nb <%= active === 'quiz' ? 'on' : '' %>">🎯 Quiz</a>
+      </nav>
+      <script src="/js/common.js"></script>

@@ -1,0 +1,45 @@
+name: Daily Vocabulary Quiz
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # 07:00 Asia/Ho_Chi_Minh
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  send-daily-quiz-email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run send daily quiz email job
+        env:
+          SHEET_SOURCE_URL: ${{ secrets.SHEET_SOURCE_URL }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_FROM: ${{ secrets.MAIL_FROM }}
+          QUIZ_EMAIL_TO: ${{ secrets.QUIZ_EMAIL_TO }}
+          APP_BASE_URL: ${{ secrets.APP_BASE_URL }}
+        run: npm run send-daily-quiz
+
+      - name: Commit generated daily quiz file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/daily-quizzes/*.json
+          git diff --cached --quiet || git commit -m "chore: save daily quiz payload"
+          git push

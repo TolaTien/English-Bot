@@ -1,0 +1,44 @@
+<%- include("partials/head", { title: "Daily Quiz | TuVungTOEIC", active: "quiz" }) %>
+
+<section class="card">
+  <div class="ct">📨 Daily Quiz từ email</div>
+  <p class="helper">Bài quiz ngày <strong><%= dateKey %></strong></p>
+  <div id="loadState" class="ld">
+    <div class="ld-ring"></div>
+    <div>Đang tải bộ câu hỏi...</div>
+  </div>
+  <div id="loadError" class="err hidden"></div>
+</section>
+
+<section id="quizCard" class="card hidden">
+  <div class="qtop">
+    <div class="qn">Câu <span id="qCurrent">1</span>/<span id="qTotal">10</span></div>
+    <div class="qpt">✓ <span id="qScore">0</span> đúng</div>
+  </div>
+  <div class="prog"><div class="pf" id="qProgress"></div></div>
+
+  <div class="qlbl">🇻🇳 Nghĩa tiếng Việt là gì?</div>
+  <div class="qw" id="qWord"></div>
+  <div class="qp" id="qPronunciation"></div>
+  <div class="opts" id="qOptions"></div>
+  <button class="btn p hidden" id="nextBtn">Câu tiếp theo →</button>
+</section>
+
+<section id="resultCard" class="card hidden">
+  <div class="rh">
+    <div class="rscore" id="resultScore">0/0</div>
+    <div class="rpct" id="resultPct"></div>
+    <div class="rmsg" id="resultMsg"></div>
+  </div>
+  <div class="brow" style="justify-content:center;margin-top:12px;">
+    <a class="btn" href="/quiz">🎯 Quiz mới</a>
+    <a class="btn p" href="/">🏠 Trang chủ</a>
+  </div>
+</section>
+
+<script>
+  window.dailyQuizDateKey = "<%= dateKey %>";
+</script>
+<script src="/js/daily-quiz-page.js"></script>
+
+<%- include("partials/foot") %>

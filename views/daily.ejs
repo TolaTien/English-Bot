@@ -1,0 +1,20 @@
+<%- include("partials/head", { title: "Từ mới | TuVungTOEIC", active: "daily" }) %>
+
+<section class="card">
+  <div class="ct">✨ Từ mới kể từ snapshot trước</div>
+  <div id="emptyDaily" class="empty hidden">
+    <div class="ei">📭</div>
+    <div>Hiện chưa có từ mới. Hãy thêm từ vào Sheet rồi chạy sync ngày mới.</div>
+  </div>
+  <div id="dailyContent" class="hidden">
+    <p class="helper" id="dailyDesc"></p>
+    <div id="dailyList"></div>
+    <div class="brow" style="margin-top:14px;">
+      <a class="btn p" href="/quiz?mode=daily">🚀 Quiz các từ mới</a>
+    </div>
+  </div>
+</section>
+
+<script src="/js/daily.js"></script>
+
+<%- include("partials/foot") %>

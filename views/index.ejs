@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>English Bot Quiz</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="wrap">
+      <section class="hero card">
+        <h1>Vocab Quiz</h1>
+        <p class="sub">Luyện từ vựng nhanh, giao diện gọn, chấm điểm ngay.</p>
+        <p id="wordCount" class="meta">Đang tải số lượng từ...</p>
+      </section>
+
+      <section class="card controls">
+        <label for="wordCountInput">Số từ mỗi lần tạo quiz</label>
+        <div class="control-row">
+          <input
+            id="wordCountInput"
+            type="number"
+            min="1"
+            value="<%= defaultCount %>"
+          />
+          <button id="generateBtn" class="btn-primary">Tạo quiz</button>
+        </div>
+        <p id="status" class="status"></p>
+      </section>
+
+      <section id="quizSection" class="card hidden">
+        <div class="progress">
+          <div id="bar" class="bar"></div>
+        </div>
+        <div id="qNum" class="q-num"></div>
+
+        <div id="quizCard">
+          <p id="quizWord" class="word"></p>
+          <p id="quizPhonetic" class="phonetic"></p>
+          <div id="optionsGrid" class="grid"></div>
+        </div>
+
+        <div id="done" class="done hidden">
+          <div id="finalScore" class="score"></div>
+          <p id="result" class="result"></p>
+        </div>
+      </section>
+    </main>
+
+    <script src="/app.js"></script>
+  </body>
+  </html>

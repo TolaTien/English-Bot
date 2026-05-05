@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T10:08:00.748Z",
+  "updatedAt": "2026-05-05T19:03:44.427Z",
   "words": [
     {
       "term": "approve",
@@ -259,6 +259,39 @@
       "pronunciation": "/ˈsʌm.ər.i/",
       "type": "n",
       "meaning": "Bản tóm tắt",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "essential",
+      "pronunciation": "",
+      "type": "adj",
+      "meaning": "Thiết yếu",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "Categorize",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Phân loại",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "associate",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Liên kết",
       "example": "",
       "exampleMeaning": "",
       "topic": "",

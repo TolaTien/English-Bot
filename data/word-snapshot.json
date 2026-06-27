@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T19:26:43.563Z",
+  "updatedAt": "2026-06-27T19:02:08.487Z",
   "words": [
     {
       "term": "approve",
@@ -107,7 +107,7 @@
       "meaning": "Sự giải thoát",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -118,7 +118,7 @@
       "meaning": "Độc lập",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -129,7 +129,7 @@
       "meaning": "Thanh tra",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -140,7 +140,7 @@
       "meaning": "Phật giáo",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -151,7 +151,7 @@
       "meaning": "Có khả năng/ có năng lực",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -162,7 +162,7 @@
       "meaning": "Bất cẩn",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -173,7 +173,7 @@
       "meaning": "Làm lạnh",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -184,7 +184,7 @@
       "meaning": "ghi nhớ",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -195,7 +195,7 @@
       "meaning": "Kéo dài",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -206,7 +206,7 @@
       "meaning": "Họ từ vựng",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -217,7 +217,7 @@
       "meaning": "Đáng tin cậy",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -228,7 +228,7 @@
       "meaning": "Nhật ký/ tạp chí",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -239,7 +239,7 @@
       "meaning": "Từ đồng nghĩa",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -250,7 +250,7 @@
       "meaning": "Ngoài ra",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -261,7 +261,7 @@
       "meaning": "Bản tóm tắt",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -272,7 +272,7 @@
       "meaning": "Thiết yếu",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -283,7 +283,7 @@
       "meaning": "Phân loại",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     },
@@ -294,7 +294,150 @@
       "meaning": "Liên kết",
       "example": "",
       "exampleMeaning": "",
-      "topic": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "contract",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Hợp đồng",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "abide by something",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Tuân thủ 1 cái gì đó",
+      "example": "Competitors must abide by the judge's decision",
+      "exampleMeaning": "Các đối thủ cạnh trang phải tuân theo quyết định của thẩm phán",
+      "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "situation",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Tình huống",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "agreement",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Hiệp định/đồng ý",
+      "example": "The situation in which people have the same opinion, or in which they approve of or accept something:",
+      "exampleMeaning": "Tình huống mà mọi người có cùng quan điểm, hoặc tán thành hay chấp nhận điều gì đó.",
+      "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "annual",
+      "pronunciation": "",
+      "type": "adj",
+      "meaning": "Hằng năm",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "landlord",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "chủ nhà",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "tenant",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "người thuê nhà",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "prorate",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Tính theo tỷ lệ",
+      "example": "The company will prorate your salary for the days you worked this month",
+      "exampleMeaning": "Công ty sẽ tính lương theo tỷ lệ số ngày bạn làm việc trong tháng này",
+      "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "caterer",
+      "pronunciation": "ˈkādərər",
+      "type": "n",
+      "meaning": "Nhà cung cấp dịch vụ ăn uống",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "assurance (that)",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Đảm bảo",
+      "example": "She gave me her assurance (that) she would sign the contract immediately.",
+      "exampleMeaning": "Cô ấy đảm bảo với tôi rằng cô ấy sẽ ký hợp đồng ngay lập tức.",
+      "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "sale associate",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Nhân viên bán hàng",
+      "example": "The sales associate gave his assurance that the missing keyboard would be replaced the next day",
+      "exampleMeaning": "Nhân viên bán hàng đã đảm bảo rằng chiếc bàn phím bị mất sẽ được thay thế vào ngày hôm sau",
+      "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "self-assurance",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Sự tự tin",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "negotiation",
+      "pronunciation": "nəˌɡəʊ.ʃiˈeɪ.ʃən",
+      "type": "n",
+      "meaning": "Cuộc đàm phán",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Contract",
       "status": "",
       "note": ""
     }

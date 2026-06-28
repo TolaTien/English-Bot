@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T19:02:08.487Z",
+  "updatedAt": "2026-06-28T19:00:25.026Z",
   "words": [
     {
       "term": "approve",
@@ -345,7 +345,7 @@
     {
       "term": "annual",
       "pronunciation": "",
-      "type": "adj",
+      "type": "adv",
       "meaning": "Hằng năm",
       "example": "",
       "exampleMeaning": "",
@@ -438,6 +438,138 @@
       "example": "",
       "exampleMeaning": "",
       "topic": "Contract",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "clause",
+      "pronunciation": "/klɔːz/",
+      "type": "n",
+      "meaning": "Điều khoản",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "determine",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Quyết định/xác định",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "influence",
+      "pronunciation": "/ˈɪn.flu.əns",
+      "type": "n",
+      "meaning": "Ảnh hưởng",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "engage",
+      "pronunciation": "/ɪnˈɡeɪdʒ/",
+      "type": "v",
+      "meaning": "Đính hôn/Tuyển dụng/Tham gia/Lôi kéo",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "establish",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Thành lập",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "obligate",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Bắt buộc/ép ai đó làm gì",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "settlement",
+      "pronunciation": "/ˈset.əl.mənt/",
+      "type": "v",
+      "meaning": "Giải quyết(Qua 1 thỏa thuận nào đó)",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "dispute",
+      "pronunciation": "diˈspyo͞ot",
+      "type": "v",
+      "meaning": "Tranh luận",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "provision",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Sự cung cấp/Dự phòng",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "resolve",
+      "pronunciation": "rəˈzôlv",
+      "type": "v",
+      "meaning": "Giải quyết",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "specific",
+      "pronunciation": "",
+      "type": "adj",
+      "meaning": "Cụ thể",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "puzzle",
+      "pronunciation": "/ˈpʌz.əl/",
+      "type": "n",
+      "meaning": "Câu đố",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
       "status": "",
       "note": ""
     }

@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "createdAt": "2026-07-07T00:10:56.960Z",
+  "createdAt": "2026-07-07T23:59:49.992Z",
   "source": "fallback_all_words",
   "totalWords": 55,
   "newWordsCount": 0,
@@ -8,19 +8,19 @@
     {
       "id": 1,
       "type": "w2m",
-      "word": "self-assurance",
-      "pronunciation": "",
-      "meaning": "Sự tự tin",
-      "answer": "Sự tự tin",
+      "word": "settlement",
+      "pronunciation": "/ˈset.əl.mənt/",
+      "meaning": "Giải quyết(Qua 1 thỏa thuận nào đó)",
+      "answer": "Giải quyết(Qua 1 thỏa thuận nào đó)",
       "options": [
-        "Câu đố",
-        "Kéo dài",
-        "Hòa giải/ Đoàn tụ",
-        "Sự tự tin"
+        "Hậu tố",
+        "Từ đồng nghĩa",
+        "Thanh tra",
+        "Giải quyết(Qua 1 thỏa thuận nào đó)"
       ],
       "meta": {
-        "partOfSpeech": "n",
-        "topic": "Contract",
+        "partOfSpeech": "v",
+        "topic": "Random",
         "status": "",
         "example": "",
         "exampleMeaning": ""
@@ -29,15 +29,15 @@
     {
       "id": 2,
       "type": "w2m",
-      "word": "clause",
-      "pronunciation": "/klɔːz/",
-      "meaning": "Điều khoản",
-      "answer": "Điều khoản",
+      "word": "inspector",
+      "pronunciation": "",
+      "meaning": "Thanh tra",
+      "answer": "Thanh tra",
       "options": [
-        "Hiệp định/đồng ý",
-        "Điều khoản",
-        "Ngoài ra",
-        "Họ từ vựng"
+        "người thuê nhà",
+        "Thanh tra",
+        "Nhật ký/ tạp chí",
+        "Nhân viên bán hàng"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -50,15 +50,15 @@
     {
       "id": 3,
       "type": "w2m",
-      "word": "military service",
+      "word": "provision",
       "pronunciation": "",
-      "meaning": "Nghĩa vụ quân sự",
-      "answer": "Nghĩa vụ quân sự",
+      "meaning": "Sự cung cấp/Dự phòng",
+      "answer": "Sự cung cấp/Dự phòng",
       "options": [
-        "Nghĩa vụ quân sự",
-        "Hiệp định/đồng ý",
-        "Liên kết",
-        "Phật giáo"
+        "Sự cung cấp/Dự phòng",
+        "Chiến lược",
+        "Hằng năm",
+        "Nhà cung cấp dịch vụ ăn uống"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -71,15 +71,15 @@
     {
       "id": 4,
       "type": "w2m",
-      "word": "juornal",
-      "pronunciation": "/ˈdʒɜː.nəl/",
-      "meaning": "Nhật ký/ tạp chí",
-      "answer": "Nhật ký/ tạp chí",
+      "word": "military service",
+      "pronunciation": "",
+      "meaning": "Nghĩa vụ quân sự",
+      "answer": "Nghĩa vụ quân sự",
       "options": [
-        "Nhật ký/ tạp chí",
-        "Đáng tin cậy",
-        "Giải quyết",
-        "Hằng năm"
+        "Chiến lược",
+        "Nghĩa vụ quân sự",
+        "Đảm bảo",
+        "Bản tóm tắt"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -92,162 +92,36 @@
     {
       "id": 5,
       "type": "w2m",
-      "word": "caterer",
-      "pronunciation": "ˈkādərər",
-      "meaning": "Nhà cung cấp dịch vụ ăn uống",
-      "answer": "Nhà cung cấp dịch vụ ăn uống",
+      "word": "comprehention",
+      "pronunciation": "",
+      "meaning": "Sự hiểu",
+      "answer": "Sự hiểu",
       "options": [
-        "Không thể thiếu",
-        "Bản tóm tắt",
-        "Nhà cung cấp dịch vụ ăn uống",
-        "ghi nhớ"
+        "Thành lập",
+        "Sự hiểu",
+        "Quyết định/xác định",
+        "Tuân thủ 1 cái gì đó"
       ],
       "meta": {
         "partOfSpeech": "n",
-        "topic": "Contract",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
+        "topic": "Random",
+        "status": "Done",
+        "example": "After reading the passage, the teacher asked questions to test the children’s comprehension.",
+        "exampleMeaning": "Sau khi đọc đoạn văn, giáo viên hỏi các câu hỏi đểm kiểm tra độ hiểu biết của những đứa trẻ"
       }
     },
     {
       "id": 6,
-      "type": "w2m",
-      "word": "summary",
-      "pronunciation": "/ˈsʌm.ər.i/",
-      "meaning": "Bản tóm tắt",
-      "answer": "Bản tóm tắt",
-      "options": [
-        "Bất cẩn",
-        "Phật giáo",
-        "Họ từ vựng",
-        "Bản tóm tắt"
-      ],
-      "meta": {
-        "partOfSpeech": "n",
-        "topic": "Random",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 7,
-      "type": "w2m",
-      "word": "lengthen",
-      "pronunciation": "",
-      "meaning": "Kéo dài",
-      "answer": "Kéo dài",
-      "options": [
-        "Kéo dài",
-        "Tiền tố",
-        "Liên kết",
-        "Đính hôn/Tuyển dụng/Tham gia/Lôi kéo"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "Random",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 8,
-      "type": "w2m",
-      "word": "capable",
-      "pronunciation": "",
-      "meaning": "Có khả năng/ có năng lực",
-      "answer": "Có khả năng/ có năng lực",
-      "options": [
-        "Họ từ vựng",
-        "Ngoài ra",
-        "Có khả năng/ có năng lực",
-        "Đáng tin cậy"
-      ],
-      "meta": {
-        "partOfSpeech": "adj",
-        "topic": "Random",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 9,
-      "type": "w2m",
-      "word": "Categorize",
-      "pronunciation": "",
-      "meaning": "Phân loại",
-      "answer": "Phân loại",
-      "options": [
-        "Phơi ra/ để lộ ra/ tiếp xúc",
-        "chủ nhà",
-        "Phân loại",
-        "Thiết yếu"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "Random",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 10,
-      "type": "w2m",
-      "word": "dependable",
-      "pronunciation": "/dɪˈpen.də.bəl/",
-      "meaning": "Đáng tin cậy",
-      "answer": "Đáng tin cậy",
-      "options": [
-        "Không thể thiếu",
-        "Nhà cung cấp dịch vụ ăn uống",
-        "Cái tủ",
-        "Đáng tin cậy"
-      ],
-      "meta": {
-        "partOfSpeech": "adj",
-        "topic": "Random",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 11,
-      "type": "w2m",
-      "word": "tenant",
-      "pronunciation": "",
-      "meaning": "người thuê nhà",
-      "answer": "người thuê nhà",
-      "options": [
-        "người thuê nhà",
-        "Nhật ký/ tạp chí",
-        "chấp thuận, phê duyệt",
-        "Nhân viên bán hàng"
-      ],
-      "meta": {
-        "partOfSpeech": "n",
-        "topic": "Contract",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 12,
       "type": "w2m",
       "word": "aside (from)",
       "pronunciation": "",
       "meaning": "Ngoài ra",
       "answer": "Ngoài ra",
       "options": [
-        "Không thể thiếu",
-        "Cái tủ",
-        "Giải quyết",
-        "Ngoài ra"
+        "Hằng năm",
+        "Tình huống",
+        "Ngoài ra",
+        "Sự giải thoát"
       ],
       "meta": {
         "partOfSpeech": "adv",
@@ -258,15 +132,204 @@
       }
     },
     {
+      "id": 7,
+      "type": "w2m",
+      "word": "abide by something",
+      "pronunciation": "",
+      "meaning": "Tuân thủ 1 cái gì đó",
+      "answer": "Tuân thủ 1 cái gì đó",
+      "options": [
+        "Không thể thiếu",
+        "Kéo dài",
+        "Cụ thể",
+        "Tuân thủ 1 cái gì đó"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "Contract",
+        "status": "",
+        "example": "Competitors must abide by the judge's decision",
+        "exampleMeaning": "Các đối thủ cạnh trang phải tuân theo quyết định của thẩm phán"
+      }
+    },
+    {
+      "id": 8,
+      "type": "w2m",
+      "word": "self-assurance",
+      "pronunciation": "",
+      "meaning": "Sự tự tin",
+      "answer": "Sự tự tin",
+      "options": [
+        "Sự tự tin",
+        "Nhân viên bán hàng",
+        "Câu đố",
+        "Cuộc đàm phán"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Contract",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 9,
+      "type": "w2m",
+      "word": "clause",
+      "pronunciation": "/klɔːz/",
+      "meaning": "Điều khoản",
+      "answer": "Điều khoản",
+      "options": [
+        "Hằng năm",
+        "Ảnh hưởng",
+        "chấp thuận, phê duyệt",
+        "Điều khoản"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 10,
+      "type": "w2m",
+      "word": "influence",
+      "pronunciation": "/ˈɪn.flu.əns",
+      "meaning": "Ảnh hưởng",
+      "answer": "Ảnh hưởng",
+      "options": [
+        "Ảnh hưởng",
+        "chấp thuận, phê duyệt",
+        "Phật giáo",
+        "Không thể thiếu"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 11,
+      "type": "w2m",
+      "word": "sale associate",
+      "pronunciation": "",
+      "meaning": "Nhân viên bán hàng",
+      "answer": "Nhân viên bán hàng",
+      "options": [
+        "Nhân viên bán hàng",
+        "nhiều",
+        "chấp thuận, phê duyệt",
+        "Cuộc đàm phán"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Contract",
+        "status": "",
+        "example": "The sales associate gave his assurance that the missing keyboard would be replaced the next day",
+        "exampleMeaning": "Nhân viên bán hàng đã đảm bảo rằng chiếc bàn phím bị mất sẽ được thay thế vào ngày hôm sau"
+      }
+    },
+    {
+      "id": 12,
+      "type": "w2m",
+      "word": "dispute",
+      "pronunciation": "diˈspyo͞ot",
+      "meaning": "Tranh luận",
+      "answer": "Tranh luận",
+      "options": [
+        "Giải quyết",
+        "chủ nhà",
+        "Tranh luận",
+        "Thanh tra"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
       "id": 13,
+      "type": "w2m",
+      "word": "memorize",
+      "pronunciation": "",
+      "meaning": "ghi nhớ",
+      "answer": "ghi nhớ",
+      "options": [
+        "Chiến lược",
+        "Hậu tố",
+        "Thành lập",
+        "ghi nhớ"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 14,
+      "type": "w2m",
+      "word": "prorate",
+      "pronunciation": "",
+      "meaning": "Tính theo tỷ lệ",
+      "answer": "Tính theo tỷ lệ",
+      "options": [
+        "Tính theo tỷ lệ",
+        "Quyết định/xác định",
+        "Sự giải thoát",
+        "Sự tự tin"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "Contract",
+        "status": "",
+        "example": "The company will prorate your salary for the days you worked this month",
+        "exampleMeaning": "Công ty sẽ tính lương theo tỷ lệ số ngày bạn làm việc trong tháng này"
+      }
+    },
+    {
+      "id": 15,
+      "type": "w2m",
+      "word": "tenant",
+      "pronunciation": "",
+      "meaning": "người thuê nhà",
+      "answer": "người thuê nhà",
+      "options": [
+        "Điều khoản",
+        "người thuê nhà",
+        "Tính theo tỷ lệ",
+        "Bản tóm tắt"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Contract",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 16,
       "type": "w2m",
       "word": "puzzle",
       "pronunciation": "/ˈpʌz.əl/",
       "meaning": "Câu đố",
       "answer": "Câu đố",
       "options": [
-        "Liên kết",
-        "Thanh tra",
+        "Độc lập",
+        "ghi nhớ",
         "Kéo dài",
         "Câu đố"
       ],
@@ -279,104 +342,41 @@
       }
     },
     {
-      "id": 14,
+      "id": 17,
       "type": "w2m",
-      "word": "influence",
-      "pronunciation": "/ˈɪn.flu.əns",
-      "meaning": "Ảnh hưởng",
-      "answer": "Ảnh hưởng",
+      "word": "caterer",
+      "pronunciation": "ˈkādərər",
+      "meaning": "Nhà cung cấp dịch vụ ăn uống",
+      "answer": "Nhà cung cấp dịch vụ ăn uống",
       "options": [
-        "Phân loại",
-        "Cuộc đàm phán",
-        "Hậu tố",
-        "Ảnh hưởng"
+        "Nhà cung cấp dịch vụ ăn uống",
+        "Liên kết",
+        "Làm lạnh",
+        "Tính theo tỷ lệ"
       ],
       "meta": {
         "partOfSpeech": "n",
-        "topic": "Random",
+        "topic": "Contract",
         "status": "",
         "example": "",
         "exampleMeaning": ""
       }
     },
     {
-      "id": 15,
-      "type": "w2m",
-      "word": "abide by something",
-      "pronunciation": "",
-      "meaning": "Tuân thủ 1 cái gì đó",
-      "answer": "Tuân thủ 1 cái gì đó",
-      "options": [
-        "chủ nhà",
-        "Giải quyết(Qua 1 thỏa thuận nào đó)",
-        "Tuân thủ 1 cái gì đó",
-        "Cái tủ"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "Contract",
-        "status": "",
-        "example": "Competitors must abide by the judge's decision",
-        "exampleMeaning": "Các đối thủ cạnh trang phải tuân theo quyết định của thẩm phán"
-      }
-    },
-    {
-      "id": 16,
+      "id": 18,
       "type": "w2m",
       "word": "refrigerate",
       "pronunciation": "",
       "meaning": "Làm lạnh",
       "answer": "Làm lạnh",
       "options": [
-        "Làm lạnh",
-        "Đáng tin cậy",
-        "ghi nhớ",
-        "Có khả năng/ có năng lực"
+        "Bản tóm tắt",
+        "Thành lập",
+        "Hòa giải/ Đoàn tụ",
+        "Làm lạnh"
       ],
       "meta": {
         "partOfSpeech": "v",
-        "topic": "Random",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 17,
-      "type": "w2m",
-      "word": "several",
-      "pronunciation": "",
-      "meaning": "nhiều",
-      "answer": "nhiều",
-      "options": [
-        "Có khả năng/ có năng lực",
-        "Giải quyết(Qua 1 thỏa thuận nào đó)",
-        "Sự cung cấp/Dự phòng",
-        "nhiều"
-      ],
-      "meta": {
-        "partOfSpeech": "adj",
-        "topic": "Random",
-        "status": "",
-        "example": "I've seen \"Gone with the Wind\" several times.",
-        "exampleMeaning": "Tôi đã xem \"Cuốn theo chiều gió\" nhiều lần rồi."
-      }
-    },
-    {
-      "id": 18,
-      "type": "w2m",
-      "word": "cabinet",
-      "pronunciation": "ˈkab(ə)nət",
-      "meaning": "Cái tủ",
-      "answer": "Cái tủ",
-      "options": [
-        "Điều khoản",
-        "nhiều",
-        "Cái tủ",
-        "Sự tự tin"
-      ],
-      "meta": {
-        "partOfSpeech": "n",
         "topic": "Random",
         "status": "",
         "example": "",
@@ -386,19 +386,19 @@
     {
       "id": 19,
       "type": "w2m",
-      "word": "independence",
+      "word": "annual",
       "pronunciation": "",
-      "meaning": "Độc lập",
-      "answer": "Độc lập",
+      "meaning": "Hằng năm",
+      "answer": "Hằng năm",
       "options": [
-        "Hòa giải/ Đoàn tụ",
-        "Đảm bảo",
-        "Có khả năng/ có năng lực",
-        "Độc lập"
+        "Hằng năm",
+        "Ngoài ra",
+        "Kéo dài",
+        "Đính hôn/Tuyển dụng/Tham gia/Lôi kéo"
       ],
       "meta": {
-        "partOfSpeech": "n",
-        "topic": "Random",
+        "partOfSpeech": "adv",
+        "topic": "Contract",
         "status": "",
         "example": "",
         "exampleMeaning": ""
@@ -407,36 +407,15 @@
     {
       "id": 20,
       "type": "w2m",
-      "word": "sale associate",
-      "pronunciation": "",
-      "meaning": "Nhân viên bán hàng",
-      "answer": "Nhân viên bán hàng",
+      "word": "dependable",
+      "pronunciation": "/dɪˈpen.də.bəl/",
+      "meaning": "Đáng tin cậy",
+      "answer": "Đáng tin cậy",
       "options": [
-        "Nhân viên bán hàng",
         "Điều khoản",
-        "Đính hôn/Tuyển dụng/Tham gia/Lôi kéo",
-        "Chiến lược"
-      ],
-      "meta": {
-        "partOfSpeech": "n",
-        "topic": "Contract",
-        "status": "",
-        "example": "The sales associate gave his assurance that the missing keyboard would be replaced the next day",
-        "exampleMeaning": "Nhân viên bán hàng đã đảm bảo rằng chiếc bàn phím bị mất sẽ được thay thế vào ngày hôm sau"
-      }
-    },
-    {
-      "id": 21,
-      "type": "w2m",
-      "word": "essential",
-      "pronunciation": "",
-      "meaning": "Thiết yếu",
-      "answer": "Thiết yếu",
-      "options": [
-        "Phân loại",
-        "Thiết yếu",
-        "Tuân thủ 1 cái gì đó",
-        "Sự cung cấp/Dự phòng"
+        "chấp thuận, phê duyệt",
+        "Sự hiểu",
+        "Đáng tin cậy"
       ],
       "meta": {
         "partOfSpeech": "adj",
@@ -447,17 +426,17 @@
       }
     },
     {
-      "id": 22,
+      "id": 21,
       "type": "w2m",
-      "word": "associate",
+      "word": "lengthen",
       "pronunciation": "",
-      "meaning": "Liên kết",
-      "answer": "Liên kết",
+      "meaning": "Kéo dài",
+      "answer": "Kéo dài",
       "options": [
-        "Liên kết",
-        "Hòa giải/ Đoàn tụ",
-        "Sự cung cấp/Dự phòng",
-        "Phân loại"
+        "Kéo dài",
+        "Ảnh hưởng",
+        "Họ từ vựng",
+        "Bắt buộc/ép ai đó làm gì"
       ],
       "meta": {
         "partOfSpeech": "v",
@@ -468,17 +447,38 @@
       }
     },
     {
+      "id": 22,
+      "type": "w2m",
+      "word": "strategy",
+      "pronunciation": "",
+      "meaning": "Chiến lược",
+      "answer": "Chiến lược",
+      "options": [
+        "Chiến lược",
+        "Nghĩa vụ quân sự",
+        "Không thể thiếu",
+        "Tranh luận"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
       "id": 23,
       "type": "w2m",
-      "word": "inspector",
-      "pronunciation": "",
-      "meaning": "Thanh tra",
-      "answer": "Thanh tra",
+      "word": "synonym",
+      "pronunciation": "/ˈsɪn.ə.nɪm/",
+      "meaning": "Từ đồng nghĩa",
+      "answer": "Từ đồng nghĩa",
       "options": [
-        "Tính theo tỷ lệ",
-        "Thanh tra",
-        "Giải quyết",
-        "Cái tủ"
+        "Sự cung cấp/Dự phòng",
+        "Có khả năng/ có năng lực",
+        "Từ đồng nghĩa",
+        "Chiến lược"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -491,18 +491,18 @@
     {
       "id": 24,
       "type": "w2m",
-      "word": "word families",
+      "word": "integral",
       "pronunciation": "",
-      "meaning": "Họ từ vựng",
-      "answer": "Họ từ vựng",
+      "meaning": "Không thể thiếu",
+      "answer": "Không thể thiếu",
       "options": [
-        "Nhân viên bán hàng",
-        "Sự giải thoát",
-        "chủ nhà",
-        "Họ từ vựng"
+        "Hợp đồng",
+        "Không thể thiếu",
+        "Thanh tra",
+        "Hòa giải/ Đoàn tụ"
       ],
       "meta": {
-        "partOfSpeech": "v",
+        "partOfSpeech": "adj",
         "topic": "Random",
         "status": "",
         "example": "",
@@ -517,10 +517,10 @@
       "meaning": "Phật giáo",
       "answer": "Phật giáo",
       "options": [
-        "Làm lạnh",
-        "Nhận biết, nhận ra",
-        "Phật giáo",
-        "Thiết yếu"
+        "Quyết định/xác định",
+        "Cụ thể",
+        "Nhật ký/ tạp chí",
+        "Phật giáo"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -533,40 +533,40 @@
     {
       "id": 26,
       "type": "w2m",
-      "word": "assurance (that)",
+      "word": "word families",
       "pronunciation": "",
-      "meaning": "Đảm bảo",
-      "answer": "Đảm bảo",
+      "meaning": "Họ từ vựng",
+      "answer": "Họ từ vựng",
       "options": [
-        "Sự giải thoát",
-        "Có khả năng/ có năng lực",
-        "Đảm bảo",
-        "Nhật ký/ tạp chí"
+        "Hợp đồng",
+        "Họ từ vựng",
+        "Hiệp định/đồng ý",
+        "Đáng tin cậy"
       ],
       "meta": {
-        "partOfSpeech": "n",
-        "topic": "Contract",
+        "partOfSpeech": "v",
+        "topic": "Random",
         "status": "",
-        "example": "She gave me her assurance (that) she would sign the contract immediately.",
-        "exampleMeaning": "Cô ấy đảm bảo với tôi rằng cô ấy sẽ ký hợp đồng ngay lập tức."
+        "example": "",
+        "exampleMeaning": ""
       }
     },
     {
       "id": 27,
       "type": "w2m",
-      "word": "prefix",
-      "pronunciation": "",
-      "meaning": "Tiền tố",
-      "answer": "Tiền tố",
+      "word": "negotiation",
+      "pronunciation": "nəˌɡəʊ.ʃiˈeɪ.ʃən",
+      "meaning": "Cuộc đàm phán",
+      "answer": "Cuộc đàm phán",
       "options": [
-        "Đảm bảo",
-        "Hòa giải/ Đoàn tụ",
-        "Tiền tố",
-        "Ngoài ra"
+        "Tình huống",
+        "Nghĩa vụ quân sự",
+        "Cuộc đàm phán",
+        "Có khả năng/ có năng lực"
       ],
       "meta": {
         "partOfSpeech": "n",
-        "topic": "Random",
+        "topic": "Contract",
         "status": "",
         "example": "",
         "exampleMeaning": ""
@@ -575,15 +575,15 @@
     {
       "id": 28,
       "type": "w2m",
-      "word": "deliverance",
-      "pronunciation": "",
-      "meaning": "Sự giải thoát",
-      "answer": "Sự giải thoát",
+      "word": "juornal",
+      "pronunciation": "/ˈdʒɜː.nəl/",
+      "meaning": "Nhật ký/ tạp chí",
+      "answer": "Nhật ký/ tạp chí",
       "options": [
-        "Thiết yếu",
-        "Nhân viên bán hàng",
-        "Sự giải thoát",
-        "Liên kết"
+        "Đính hôn/Tuyển dụng/Tham gia/Lôi kéo",
+        "Sự cung cấp/Dự phòng",
+        "Nhật ký/ tạp chí",
+        "Độc lập"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -596,18 +596,18 @@
     {
       "id": 29,
       "type": "w2m",
-      "word": "specific",
+      "word": "establish",
       "pronunciation": "",
-      "meaning": "Cụ thể",
-      "answer": "Cụ thể",
+      "meaning": "Thành lập",
+      "answer": "Thành lập",
       "options": [
-        "Cụ thể",
-        "Đáng tin cậy",
-        "Độc lập",
-        "Phật giáo"
+        "Nghĩa vụ quân sự",
+        "Nhật ký/ tạp chí",
+        "Thành lập",
+        "Cụ thể"
       ],
       "meta": {
-        "partOfSpeech": "adj",
+        "partOfSpeech": "v",
         "topic": "Random",
         "status": "",
         "example": "",
@@ -617,40 +617,40 @@
     {
       "id": 30,
       "type": "w2m",
-      "word": "recognize",
+      "word": "reunite",
       "pronunciation": "",
-      "meaning": "Nhận biết, nhận ra",
-      "answer": "Nhận biết, nhận ra",
+      "meaning": "Hòa giải/ Đoàn tụ",
+      "answer": "Hòa giải/ Đoàn tụ",
       "options": [
-        "Nhận biết, nhận ra",
-        "Câu đố",
-        "Ngoài ra",
-        "Tình huống"
+        "Hòa giải/ Đoàn tụ",
+        "Tranh luận",
+        "người thuê nhà",
+        "Ngoài ra"
       ],
       "meta": {
         "partOfSpeech": "v",
         "topic": "Random",
-        "status": "Done",
-        "example": "",
-        "exampleMeaning": ""
+        "status": "",
+        "example": "Sarah was finally reunited with her children at the airport.",
+        "exampleMeaning": "Cuối cùng Sarah cũng được đoàn tụ với các con của mình tại sân bay."
       }
     },
     {
       "id": 31,
       "type": "w2m",
-      "word": "situation",
+      "word": "suffix",
       "pronunciation": "",
-      "meaning": "Tình huống",
-      "answer": "Tình huống",
+      "meaning": "Hậu tố",
+      "answer": "Hậu tố",
       "options": [
-        "Nhận biết, nhận ra",
-        "Tình huống",
-        "Ảnh hưởng",
-        "người thuê nhà"
+        "Hòa giải/ Đoàn tụ",
+        "Kéo dài",
+        "Hậu tố",
+        "Phân loại"
       ],
       "meta": {
         "partOfSpeech": "n",
-        "topic": "Contract",
+        "topic": "Random",
         "status": "",
         "example": "",
         "exampleMeaning": ""
@@ -659,18 +659,18 @@
     {
       "id": 32,
       "type": "w2m",
-      "word": "provision",
+      "word": "associate",
       "pronunciation": "",
-      "meaning": "Sự cung cấp/Dự phòng",
-      "answer": "Sự cung cấp/Dự phòng",
+      "meaning": "Liên kết",
+      "answer": "Liên kết",
       "options": [
-        "Quyết định/xác định",
-        "Nhận biết, nhận ra",
-        "Tuân thủ 1 cái gì đó",
-        "Sự cung cấp/Dự phòng"
+        "Thiết yếu",
+        "Liên kết",
+        "Sự tự tin",
+        "Kéo dài"
       ],
       "meta": {
-        "partOfSpeech": "n",
+        "partOfSpeech": "v",
         "topic": "Random",
         "status": "",
         "example": "",
@@ -680,18 +680,18 @@
     {
       "id": 33,
       "type": "w2m",
-      "word": "determine",
+      "word": "deliverance",
       "pronunciation": "",
-      "meaning": "Quyết định/xác định",
-      "answer": "Quyết định/xác định",
+      "meaning": "Sự giải thoát",
+      "answer": "Sự giải thoát",
       "options": [
-        "Thành lập",
-        "Từ đồng nghĩa",
-        "Quyết định/xác định",
-        "ghi nhớ"
+        "Sự cung cấp/Dự phòng",
+        "Sự giải thoát",
+        "Đáng tin cậy",
+        "Nghĩa vụ quân sự"
       ],
       "meta": {
-        "partOfSpeech": "v",
+        "partOfSpeech": "n",
         "topic": "Random",
         "status": "",
         "example": "",
@@ -701,22 +701,22 @@
     {
       "id": 34,
       "type": "w2m",
-      "word": "integral",
+      "word": "several",
       "pronunciation": "",
-      "meaning": "Không thể thiếu",
-      "answer": "Không thể thiếu",
+      "meaning": "nhiều",
+      "answer": "nhiều",
       "options": [
-        "Hậu tố",
-        "Chiến lược",
-        "Không thể thiếu",
-        "Đảm bảo"
+        "Độc lập",
+        "nhiều",
+        "Câu đố",
+        "Chiến lược"
       ],
       "meta": {
         "partOfSpeech": "adj",
         "topic": "Random",
         "status": "",
-        "example": "",
-        "exampleMeaning": ""
+        "example": "I've seen \"Gone with the Wind\" several times.",
+        "exampleMeaning": "Tôi đã xem \"Cuốn theo chiều gió\" nhiều lần rồi."
       }
     },
     {
@@ -727,10 +727,10 @@
       "meaning": "Hiệp định/đồng ý",
       "answer": "Hiệp định/đồng ý",
       "options": [
-        "Phân loại",
-        "Hiệp định/đồng ý",
-        "Cái tủ",
-        "Ngoài ra"
+        "Đính hôn/Tuyển dụng/Tham gia/Lôi kéo",
+        "Có khả năng/ có năng lực",
+        "Giải quyết",
+        "Hiệp định/đồng ý"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -743,20 +743,20 @@
     {
       "id": 36,
       "type": "w2m",
-      "word": "landlord",
+      "word": "recognize",
       "pronunciation": "",
-      "meaning": "chủ nhà",
-      "answer": "chủ nhà",
+      "meaning": "Nhận biết, nhận ra",
+      "answer": "Nhận biết, nhận ra",
       "options": [
-        "Câu đố",
-        "Họ từ vựng",
-        "chủ nhà",
-        "Không thể thiếu"
+        "nhiều",
+        "Sự cung cấp/Dự phòng",
+        "Nhận biết, nhận ra",
+        "Giải quyết"
       ],
       "meta": {
-        "partOfSpeech": "n",
-        "topic": "Contract",
-        "status": "",
+        "partOfSpeech": "v",
+        "topic": "Random",
+        "status": "Done",
         "example": "",
         "exampleMeaning": ""
       }
@@ -764,15 +764,15 @@
     {
       "id": 37,
       "type": "w2m",
-      "word": "contract",
+      "word": "landlord",
       "pronunciation": "",
-      "meaning": "Hợp đồng",
-      "answer": "Hợp đồng",
+      "meaning": "chủ nhà",
+      "answer": "chủ nhà",
       "options": [
-        "ghi nhớ",
-        "Có khả năng/ có năng lực",
-        "Phơi ra/ để lộ ra/ tiếp xúc",
-        "Hợp đồng"
+        "chủ nhà",
+        "Cuộc đàm phán",
+        "Bắt buộc/ép ai đó làm gì",
+        "Tình huống"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -785,15 +785,36 @@
     {
       "id": 38,
       "type": "w2m",
-      "word": "resolve",
-      "pronunciation": "rəˈzôlv",
-      "meaning": "Giải quyết",
-      "answer": "Giải quyết",
+      "word": "summary",
+      "pronunciation": "/ˈsʌm.ər.i/",
+      "meaning": "Bản tóm tắt",
+      "answer": "Bản tóm tắt",
       "options": [
-        "Giải quyết",
-        "Làm lạnh",
-        "Nhân viên bán hàng",
-        "người thuê nhà"
+        "Bản tóm tắt",
+        "Tiền tố",
+        "Phân loại",
+        "Bất cẩn"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 39,
+      "type": "w2m",
+      "word": "determine",
+      "pronunciation": "",
+      "meaning": "Quyết định/xác định",
+      "answer": "Quyết định/xác định",
+      "options": [
+        "Phật giáo",
+        "Hiệp định/đồng ý",
+        "Từ đồng nghĩa",
+        "Quyết định/xác định"
       ],
       "meta": {
         "partOfSpeech": "v",
@@ -804,59 +825,38 @@
       }
     },
     {
-      "id": 39,
-      "type": "w2m",
-      "word": "approve",
-      "pronunciation": "/əˈpruːv/",
-      "meaning": "chấp thuận, phê duyệt",
-      "answer": "chấp thuận, phê duyệt",
-      "options": [
-        "Quyết định/xác định",
-        "chấp thuận, phê duyệt",
-        "Sự hiểu",
-        "Thanh tra"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "Văn phòng",
-        "status": "Done",
-        "example": "The manager approved the budget.",
-        "exampleMeaning": "Người quản lý đã phê duyệt ngân sách."
-      }
-    },
-    {
       "id": 40,
       "type": "w2m",
-      "word": "comprehention",
+      "word": "specific",
       "pronunciation": "",
-      "meaning": "Sự hiểu",
-      "answer": "Sự hiểu",
+      "meaning": "Cụ thể",
+      "answer": "Cụ thể",
       "options": [
-        "Liên kết",
-        "Nghĩa vụ quân sự",
-        "Bản tóm tắt",
-        "Sự hiểu"
+        "Thanh tra",
+        "Kéo dài",
+        "Cụ thể",
+        "Tính theo tỷ lệ"
       ],
       "meta": {
-        "partOfSpeech": "n",
+        "partOfSpeech": "adj",
         "topic": "Random",
-        "status": "Done",
-        "example": "After reading the passage, the teacher asked questions to test the children’s comprehension.",
-        "exampleMeaning": "Sau khi đọc đoạn văn, giáo viên hỏi các câu hỏi đểm kiểm tra độ hiểu biết của những đứa trẻ"
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
       }
     },
     {
       "id": 41,
       "type": "w2m",
-      "word": "establish",
-      "pronunciation": "",
-      "meaning": "Thành lập",
-      "answer": "Thành lập",
+      "word": "resolve",
+      "pronunciation": "rəˈzôlv",
+      "meaning": "Giải quyết",
+      "answer": "Giải quyết",
       "options": [
-        "chủ nhà",
-        "Thành lập",
-        "Điều khoản",
-        "Bất cẩn"
+        "Tình huống",
+        "Giải quyết",
+        "Tiền tố",
+        "Đảm bảo"
       ],
       "meta": {
         "partOfSpeech": "v",
@@ -869,99 +869,15 @@
     {
       "id": 42,
       "type": "w2m",
-      "word": "obligate",
-      "pronunciation": "",
-      "meaning": "Bắt buộc/ép ai đó làm gì",
-      "answer": "Bắt buộc/ép ai đó làm gì",
-      "options": [
-        "Họ từ vựng",
-        "Bắt buộc/ép ai đó làm gì",
-        "Nhật ký/ tạp chí",
-        "Phật giáo"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "Random",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 43,
-      "type": "w2m",
-      "word": "synonym",
-      "pronunciation": "/ˈsɪn.ə.nɪm/",
-      "meaning": "Từ đồng nghĩa",
-      "answer": "Từ đồng nghĩa",
-      "options": [
-        "Từ đồng nghĩa",
-        "Phân loại",
-        "Bản tóm tắt",
-        "chủ nhà"
-      ],
-      "meta": {
-        "partOfSpeech": "n",
-        "topic": "Random",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 44,
-      "type": "w2m",
-      "word": "annual",
-      "pronunciation": "",
-      "meaning": "Hằng năm",
-      "answer": "Hằng năm",
-      "options": [
-        "Hằng năm",
-        "Kéo dài",
-        "Có khả năng/ có năng lực",
-        "chủ nhà"
-      ],
-      "meta": {
-        "partOfSpeech": "adv",
-        "topic": "Contract",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 45,
-      "type": "w2m",
-      "word": "settlement",
-      "pronunciation": "/ˈset.əl.mənt/",
-      "meaning": "Giải quyết(Qua 1 thỏa thuận nào đó)",
-      "answer": "Giải quyết(Qua 1 thỏa thuận nào đó)",
-      "options": [
-        "Giải quyết(Qua 1 thỏa thuận nào đó)",
-        "Từ đồng nghĩa",
-        "Tính theo tỷ lệ",
-        "Phân loại"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "Random",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 46,
-      "type": "w2m",
       "word": "expose",
       "pronunciation": "",
       "meaning": "Phơi ra/ để lộ ra/ tiếp xúc",
       "answer": "Phơi ra/ để lộ ra/ tiếp xúc",
       "options": [
-        "Nhà cung cấp dịch vụ ăn uống",
         "Phơi ra/ để lộ ra/ tiếp xúc",
-        "Kéo dài",
-        "Nhân viên bán hàng"
+        "Hằng năm",
+        "Thiết yếu",
+        "Phân loại"
       ],
       "meta": {
         "partOfSpeech": "v",
@@ -972,17 +888,17 @@
       }
     },
     {
-      "id": 47,
+      "id": 43,
       "type": "w2m",
-      "word": "memorize",
+      "word": "obligate",
       "pronunciation": "",
-      "meaning": "ghi nhớ",
-      "answer": "ghi nhớ",
+      "meaning": "Bắt buộc/ép ai đó làm gì",
+      "answer": "Bắt buộc/ép ai đó làm gì",
       "options": [
-        "ghi nhớ",
-        "Tiền tố",
-        "Nghĩa vụ quân sự",
-        "Nhật ký/ tạp chí"
+        "Cụ thể",
+        "Tình huống",
+        "Hòa giải/ Đoàn tụ",
+        "Bắt buộc/ép ai đó làm gì"
       ],
       "meta": {
         "partOfSpeech": "v",
@@ -993,80 +909,17 @@
       }
     },
     {
-      "id": 48,
+      "id": 44,
       "type": "w2m",
-      "word": "engage",
-      "pronunciation": "/ɪnˈɡeɪdʒ/",
-      "meaning": "Đính hôn/Tuyển dụng/Tham gia/Lôi kéo",
-      "answer": "Đính hôn/Tuyển dụng/Tham gia/Lôi kéo",
+      "word": "independence",
+      "pronunciation": "",
+      "meaning": "Độc lập",
+      "answer": "Độc lập",
       "options": [
-        "Đính hôn/Tuyển dụng/Tham gia/Lôi kéo",
-        "Hợp đồng",
+        "Độc lập",
+        "Chiến lược",
         "Cuộc đàm phán",
         "nhiều"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "Random",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 49,
-      "type": "w2m",
-      "word": "reunite",
-      "pronunciation": "",
-      "meaning": "Hòa giải/ Đoàn tụ",
-      "answer": "Hòa giải/ Đoàn tụ",
-      "options": [
-        "Hòa giải/ Đoàn tụ",
-        "Có khả năng/ có năng lực",
-        "Liên kết",
-        "chấp thuận, phê duyệt"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "Random",
-        "status": "",
-        "example": "Sarah was finally reunited with her children at the airport.",
-        "exampleMeaning": "Cuối cùng Sarah cũng được đoàn tụ với các con của mình tại sân bay."
-      }
-    },
-    {
-      "id": 50,
-      "type": "w2m",
-      "word": "dispute",
-      "pronunciation": "diˈspyo͞ot",
-      "meaning": "Tranh luận",
-      "answer": "Tranh luận",
-      "options": [
-        "Tranh luận",
-        "Thành lập",
-        "Tuân thủ 1 cái gì đó",
-        "Phân loại"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "Random",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 51,
-      "type": "w2m",
-      "word": "strategy",
-      "pronunciation": "",
-      "meaning": "Chiến lược",
-      "answer": "Chiến lược",
-      "options": [
-        "Chiến lược",
-        "người thuê nhà",
-        "Cái tủ",
-        "Họ từ vựng"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -1077,17 +930,38 @@
       }
     },
     {
-      "id": 52,
+      "id": 45,
       "type": "w2m",
-      "word": "careless",
+      "word": "assurance (that)",
       "pronunciation": "",
-      "meaning": "Bất cẩn",
-      "answer": "Bất cẩn",
+      "meaning": "Đảm bảo",
+      "answer": "Đảm bảo",
       "options": [
-        "chủ nhà",
-        "Đáng tin cậy",
-        "Bất cẩn",
-        "người thuê nhà"
+        "Đảm bảo",
+        "Tính theo tỷ lệ",
+        "Có khả năng/ có năng lực",
+        "Phật giáo"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Contract",
+        "status": "",
+        "example": "She gave me her assurance (that) she would sign the contract immediately.",
+        "exampleMeaning": "Cô ấy đảm bảo với tôi rằng cô ấy sẽ ký hợp đồng ngay lập tức."
+      }
+    },
+    {
+      "id": 46,
+      "type": "w2m",
+      "word": "essential",
+      "pronunciation": "",
+      "meaning": "Thiết yếu",
+      "answer": "Thiết yếu",
+      "options": [
+        "Thiết yếu",
+        "Sự giải thoát",
+        "Thanh tra",
+        "Tình huống"
       ],
       "meta": {
         "partOfSpeech": "adj",
@@ -1098,17 +972,80 @@
       }
     },
     {
-      "id": 53,
+      "id": 47,
       "type": "w2m",
-      "word": "suffix",
+      "word": "contract",
       "pronunciation": "",
-      "meaning": "Hậu tố",
-      "answer": "Hậu tố",
+      "meaning": "Hợp đồng",
+      "answer": "Hợp đồng",
       "options": [
+        "người thuê nhà",
+        "Cuộc đàm phán",
+        "Hợp đồng",
+        "Làm lạnh"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Contract",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 48,
+      "type": "w2m",
+      "word": "approve",
+      "pronunciation": "/əˈpruːv/",
+      "meaning": "chấp thuận, phê duyệt",
+      "answer": "chấp thuận, phê duyệt",
+      "options": [
+        "chấp thuận, phê duyệt",
+        "Cái tủ",
+        "Kéo dài",
+        "Ngoài ra"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "Văn phòng",
+        "status": "Done",
+        "example": "The manager approved the budget.",
+        "exampleMeaning": "Người quản lý đã phê duyệt ngân sách."
+      }
+    },
+    {
+      "id": 49,
+      "type": "w2m",
+      "word": "situation",
+      "pronunciation": "",
+      "meaning": "Tình huống",
+      "answer": "Tình huống",
+      "options": [
+        "Tình huống",
+        "Độc lập",
         "Điều khoản",
-        "Phật giáo",
-        "Hậu tố",
-        "Cuộc đàm phán"
+        "Nhà cung cấp dịch vụ ăn uống"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Contract",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 50,
+      "type": "w2m",
+      "word": "cabinet",
+      "pronunciation": "ˈkab(ə)nət",
+      "meaning": "Cái tủ",
+      "answer": "Cái tủ",
+      "options": [
+        "chủ nhà",
+        "Cái tủ",
+        "Sự cung cấp/Dự phòng",
+        "Tranh luận"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -1119,42 +1056,105 @@
       }
     },
     {
+      "id": 51,
+      "type": "w2m",
+      "word": "capable",
+      "pronunciation": "",
+      "meaning": "Có khả năng/ có năng lực",
+      "answer": "Có khả năng/ có năng lực",
+      "options": [
+        "Cái tủ",
+        "Bản tóm tắt",
+        "Có khả năng/ có năng lực",
+        "Bắt buộc/ép ai đó làm gì"
+      ],
+      "meta": {
+        "partOfSpeech": "adj",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 52,
+      "type": "w2m",
+      "word": "prefix",
+      "pronunciation": "",
+      "meaning": "Tiền tố",
+      "answer": "Tiền tố",
+      "options": [
+        "Tiền tố",
+        "nhiều",
+        "Nghĩa vụ quân sự",
+        "Hằng năm"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 53,
+      "type": "w2m",
+      "word": "careless",
+      "pronunciation": "",
+      "meaning": "Bất cẩn",
+      "answer": "Bất cẩn",
+      "options": [
+        "Không thể thiếu",
+        "Đáng tin cậy",
+        "Bất cẩn",
+        "Thành lập"
+      ],
+      "meta": {
+        "partOfSpeech": "adj",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
       "id": 54,
       "type": "w2m",
-      "word": "prorate",
-      "pronunciation": "",
-      "meaning": "Tính theo tỷ lệ",
-      "answer": "Tính theo tỷ lệ",
+      "word": "engage",
+      "pronunciation": "/ɪnˈɡeɪdʒ/",
+      "meaning": "Đính hôn/Tuyển dụng/Tham gia/Lôi kéo",
+      "answer": "Đính hôn/Tuyển dụng/Tham gia/Lôi kéo",
       "options": [
-        "Tình huống",
-        "Tính theo tỷ lệ",
-        "người thuê nhà",
-        "Điều khoản"
+        "Điều khoản",
+        "Đính hôn/Tuyển dụng/Tham gia/Lôi kéo",
+        "Quyết định/xác định",
+        "Có khả năng/ có năng lực"
       ],
       "meta": {
         "partOfSpeech": "v",
-        "topic": "Contract",
+        "topic": "Random",
         "status": "",
-        "example": "The company will prorate your salary for the days you worked this month",
-        "exampleMeaning": "Công ty sẽ tính lương theo tỷ lệ số ngày bạn làm việc trong tháng này"
+        "example": "",
+        "exampleMeaning": ""
       }
     },
     {
       "id": 55,
       "type": "w2m",
-      "word": "negotiation",
-      "pronunciation": "nəˌɡəʊ.ʃiˈeɪ.ʃən",
-      "meaning": "Cuộc đàm phán",
-      "answer": "Cuộc đàm phán",
+      "word": "Categorize",
+      "pronunciation": "",
+      "meaning": "Phân loại",
+      "answer": "Phân loại",
       "options": [
-        "Làm lạnh",
-        "nhiều",
-        "Cuộc đàm phán",
-        "Cụ thể"
+        "Phân loại",
+        "Thiết yếu",
+        "Có khả năng/ có năng lực",
+        "Tính theo tỷ lệ"
       ],
       "meta": {
-        "partOfSpeech": "n",
-        "topic": "Contract",
+        "partOfSpeech": "v",
+        "topic": "Random",
         "status": "",
         "example": "",
         "exampleMeaning": ""

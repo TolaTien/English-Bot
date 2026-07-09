@@ -2,7 +2,7 @@ require("dotenv").config();
 
 const { SHEET_SOURCE_URL } = require("../config");
 const { fetchWordsFromGoogleSheet } = require("../services/sheetService");
-const { loadSnapshot } = require("../services/snapshotService");
+const { loadSnapshot, saveSnapshot } = require("../services/snapshotService");
 const { getNewWords } = require("../services/wordDiffService");
 const { buildQuiz } = require("../services/quizService");
 const { saveDailyQuiz, getDailyQuizPath } = require("../services/dailyQuizStoreService");
@@ -52,6 +52,10 @@ async function runSendDailyQuizEmailJob() {
       source: payload.source,
     },
   });
+
+  // Cập nhật snapshot SAU khi đã so sánh và gửi email xong.
+  // Điều này đảm bảo lần chạy tiếp theo sẽ so sánh với baseline mới nhất.
+  saveSnapshot(words);
 
   console.log(
     JSON.stringify(

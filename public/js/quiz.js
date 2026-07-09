@@ -26,6 +26,10 @@ function refreshLabelState() {
   });
 }
 
+function ttsButton(word) {
+  return `<button type="button" class="tts-btn" onclick="event.stopPropagation();window.tts.speak('${word.replace(/'/g, "\\'")}');" title="Phát âm">🔊</button>`;
+}
+
 function renderQuestion() {
   const question = currentQuiz[currentIndex];
   const total = currentQuiz.length;
@@ -36,8 +40,15 @@ function renderQuestion() {
   document.getElementById("qProgress").style.width = `${(currentIndex / total) * 100}%`;
   document.getElementById("qLabel").textContent =
     question.type === "m2w" ? "🇬🇧 Từ tiếng Anh là gì?" : "🇻🇳 Nghĩa tiếng Việt là gì?";
-  document.getElementById("qWord").textContent = question.type === "m2w" ? question.meaning : question.word;
-  document.getElementById("qPronunciation").textContent = question.type === "m2w" ? "" : question.pronunciation || "—";
+    
+  if (question.type === "m2w") {
+    document.getElementById("qWord").textContent = question.meaning;
+    document.getElementById("qPronunciation").textContent = "";
+  } else {
+    document.getElementById("qWord").innerHTML = `${window.appCommon.escapeHtml(question.word)} ${ttsButton(question.word)}`;
+    document.getElementById("qPronunciation").textContent = question.pronunciation || "—";
+    window.tts.speak(question.word);
+  }
 
   const tags = [];
   if (question.meta.partOfSpeech) {

@@ -6,6 +6,10 @@ const wordLabel = document.getElementById("wordLabel");
 
 let words = [];
 
+function ttsButton(word) {
+  return `<button type="button" class="tts-btn" onclick="event.stopPropagation();window.tts.speak('${word.replace(/'/g, "\\'")}');" title="Phát âm">🔊</button>`;
+}
+
 function renderTable() {
   const query = searchInput.value.trim().toLowerCase();
   const topic = topicFilter.value;
@@ -33,7 +37,7 @@ function renderTable() {
       const statusTag = window.appCommon.isDone(word) ? '<span class="tag tg-done">✓ Done</span>' : "";
       return `<tr>
         <td style="color:#ccc;font-size:11px">${index + 1}</td>
-        <td><strong>${window.appCommon.escapeHtml(word.term)}</strong> ${statusTag}</td>
+        <td><strong>${window.appCommon.escapeHtml(word.term)}</strong> ${ttsButton(word.term)} ${statusTag}</td>
         <td style="color:#888;font-style:italic">${window.appCommon.escapeHtml(word.pronunciation || "—")}</td>
         <td>${word.type ? `<span class="tag tg-type">${window.appCommon.escapeHtml(word.type)}</span>` : "—"}</td>
         <td>${window.appCommon.escapeHtml(word.meaning)}</td>

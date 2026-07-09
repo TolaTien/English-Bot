@@ -8,6 +8,10 @@ let questions = [];
 let currentIndex = 0;
 let score = 0;
 
+function ttsButton(word) {
+  return `<button type="button" class="tts-btn" onclick="event.stopPropagation();window.tts.speak('${word.replace(/'/g, "\\'")}');" title="Phát âm">🔊</button>`;
+}
+
 function renderQuestion() {
   const q = questions[currentIndex];
   const total = questions.length;
@@ -16,8 +20,15 @@ function renderQuestion() {
   document.getElementById("qTotal").textContent = total;
   document.getElementById("qScore").textContent = score;
   document.getElementById("qProgress").style.width = `${(currentIndex / total) * 100}%`;
-  document.getElementById("qWord").textContent = q.word;
-  document.getElementById("qPronunciation").textContent = q.pronunciation || "—";
+  
+  if (q.type === "m2w") {
+    document.getElementById("qWord").textContent = q.meaning || q.word;
+    document.getElementById("qPronunciation").textContent = "";
+  } else {
+    document.getElementById("qWord").innerHTML = `${window.appCommon.escapeHtml(q.word)} ${ttsButton(q.word)}`;
+    document.getElementById("qPronunciation").textContent = q.pronunciation || "—";
+    window.tts.speak(q.word);
+  }
 
   const optionsEl = document.getElementById("qOptions");
   optionsEl.innerHTML = q.options

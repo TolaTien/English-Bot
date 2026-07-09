@@ -8,6 +8,7 @@ const { loadSnapshot } = require("./services/snapshotService");
 const { getNewWords } = require("./services/wordDiffService");
 const { buildQuiz } = require("./services/quizService");
 const { loadDailyQuiz } = require("./services/dailyQuizStoreService");
+const { fetchPronunciation } = require("./services/pronunciationService");
 
 const app = express();
 const port = Number(process.env.PORT || 3000);
@@ -119,6 +120,18 @@ app.get("/api/quiz/daily/:dateKey", (req, res) => {
       return res.status(404).json({ error: "Không tìm thấy bài quiz cho ngày này." });
     }
     return res.json(payload);
+  } catch (error) {
+    return res.status(500).json({ error: error.message });
+  }
+});
+
+app.get("/api/pronunciation/:word", async (req, res) => {
+  try {
+    const result = await fetchPronunciation(req.params.word);
+    if (!result) {
+      return res.json({ found: false });
+    }
+    return res.json({ found: true, ...result });
   } catch (error) {
     return res.status(500).json({ error: error.message });
   }

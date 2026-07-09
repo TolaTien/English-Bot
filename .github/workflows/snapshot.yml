@@ -1,8 +1,6 @@
-name: Daily Snapshot 1AM
+name: Manual Snapshot (chỉ chạy thủ công khi cần reset baseline)
 
 on:
-  schedule:
-    - cron: "0 18 * * *" # 01:00 Asia/Ho_Chi_Minh
   workflow_dispatch:
 
 permissions:

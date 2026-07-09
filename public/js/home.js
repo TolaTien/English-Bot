@@ -4,6 +4,10 @@ const content = document.getElementById("content");
 const newPanel = document.getElementById("newPanel");
 const topicPanel = document.getElementById("topicPanel");
 
+function ttsButton(word) {
+  return `<button type="button" class="tts-btn" onclick="event.stopPropagation();window.tts.speak('${word.replace(/'/g, "\\'")}');" title="Phát âm">🔊</button>`;
+}
+
 async function renderHome() {
   try {
     const data = await window.appCommon.fetchData();
@@ -20,7 +24,7 @@ async function renderHome() {
         .slice(0, 12)
         .map(
           (word) =>
-            `<div class="nwr"><strong>${window.appCommon.escapeHtml(word.term)}</strong><span style="color:#888;font-style:italic">${window.appCommon.escapeHtml(word.pronunciation || "—")}</span><span>${window.appCommon.escapeHtml(word.meaning)}</span></div>`
+            `<div class="nwr"><strong>${window.appCommon.escapeHtml(word.term)}</strong> ${ttsButton(word.term)}<span style="color:#888;font-style:italic;margin-left:4px;">${window.appCommon.escapeHtml(word.pronunciation || "—")}</span><span>${window.appCommon.escapeHtml(word.meaning)}</span></div>`
         )
         .join("");
       newPanel.classList.remove("hidden");

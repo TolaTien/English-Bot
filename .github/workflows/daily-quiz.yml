@@ -40,6 +40,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/daily-quizzes/*.json
+          git add data/daily-quizzes/*.json data/word-snapshot.json
           git diff --cached --quiet || git commit -m "chore: save daily quiz payload"
           git push

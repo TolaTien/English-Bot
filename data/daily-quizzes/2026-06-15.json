@@ -1,6 +1,6 @@
 {
-  "date": "2026-05-05",
-  "createdAt": "2026-05-05T23:51:33.352Z",
+  "date": "2026-06-15",
+  "createdAt": "2026-06-15T00:14:58.736Z",
   "source": "fallback_all_words",
   "totalWords": 27,
   "newWordsCount": 0,
@@ -8,19 +8,19 @@
     {
       "id": 1,
       "type": "w2m",
-      "word": "prefix",
+      "word": "lengthen",
       "pronunciation": "",
-      "meaning": "Tiền tố",
-      "answer": "Tiền tố",
+      "meaning": "Kéo dài",
+      "answer": "Kéo dài",
       "options": [
+        "Kéo dài",
         "Nhận biết, nhận ra",
-        "nhiều",
-        "Liên kết",
-        "Tiền tố"
+        "Hòa giải/ Đoàn tụ",
+        "chấp thuận, phê duyệt"
       ],
       "meta": {
-        "partOfSpeech": "n",
-        "topic": "Random",
+        "partOfSpeech": "v",
+        "topic": "",
         "status": "",
         "example": "",
         "exampleMeaning": ""
@@ -29,18 +29,18 @@
     {
       "id": 2,
       "type": "w2m",
-      "word": "essential",
-      "pronunciation": "",
-      "meaning": "Thiết yếu",
-      "answer": "Thiết yếu",
+      "word": "summary",
+      "pronunciation": "/ˈsʌm.ər.i/",
+      "meaning": "Bản tóm tắt",
+      "answer": "Bản tóm tắt",
       "options": [
-        "Thanh tra",
+        "Phật giáo",
+        "Bản tóm tắt",
         "ghi nhớ",
-        "Sự giải thoát",
-        "Thiết yếu"
+        "Từ đồng nghĩa"
       ],
       "meta": {
-        "partOfSpeech": "adj",
+        "partOfSpeech": "n",
         "topic": "",
         "status": "",
         "example": "",
@@ -55,10 +55,10 @@
       "meaning": "Nhật ký/ tạp chí",
       "answer": "Nhật ký/ tạp chí",
       "options": [
-        "Phơi ra/ để lộ ra/ tiếp xúc",
-        "Thanh tra",
-        "nhiều",
-        "Nhật ký/ tạp chí"
+        "Từ đồng nghĩa",
+        "Nhật ký/ tạp chí",
+        "Sự hiểu",
+        "Có khả năng/ có năng lực"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -71,15 +71,36 @@
     {
       "id": 4,
       "type": "w2m",
-      "word": "capable",
+      "word": "expose",
       "pronunciation": "",
-      "meaning": "Có khả năng/ có năng lực",
-      "answer": "Có khả năng/ có năng lực",
+      "meaning": "Phơi ra/ để lộ ra/ tiếp xúc",
+      "answer": "Phơi ra/ để lộ ra/ tiếp xúc",
       "options": [
-        "Có khả năng/ có năng lực",
-        "Nhận biết, nhận ra",
         "Nhật ký/ tạp chí",
-        "ghi nhớ"
+        "Phân loại",
+        "Bất cẩn",
+        "Phơi ra/ để lộ ra/ tiếp xúc"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "Random",
+        "status": "",
+        "example": "The plaster on the walls has been removed to expose the original bricks underneath.",
+        "exampleMeaning": "Lớp vữa trát trên tường đã được loại bỏ để lộ ra những viên gạch nguyên bản bên dưới."
+      }
+    },
+    {
+      "id": 5,
+      "type": "w2m",
+      "word": "dependable",
+      "pronunciation": "/dɪˈpen.də.bəl/",
+      "meaning": "Đáng tin cậy",
+      "answer": "Đáng tin cậy",
+      "options": [
+        "ghi nhớ",
+        "Đáng tin cậy",
+        "Liên kết",
+        "Bản tóm tắt"
       ],
       "meta": {
         "partOfSpeech": "adj",
@@ -90,17 +111,17 @@
       }
     },
     {
-      "id": 5,
+      "id": 6,
       "type": "w2m",
-      "word": "strategy",
+      "word": "suffix",
       "pronunciation": "",
-      "meaning": "Chiến lược",
-      "answer": "Chiến lược",
+      "meaning": "Hậu tố",
+      "answer": "Hậu tố",
       "options": [
-        "Nhật ký/ tạp chí",
-        "Chiến lược",
-        "Thanh tra",
-        "ghi nhớ"
+        "Độc lập",
+        "Sự hiểu",
+        "Đáng tin cậy",
+        "Hậu tố"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -111,38 +132,17 @@
       }
     },
     {
-      "id": 6,
-      "type": "w2m",
-      "word": "recognize",
-      "pronunciation": "",
-      "meaning": "Nhận biết, nhận ra",
-      "answer": "Nhận biết, nhận ra",
-      "options": [
-        "Kéo dài",
-        "Nhận biết, nhận ra",
-        "Phơi ra/ để lộ ra/ tiếp xúc",
-        "Sự hiểu"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "Random",
-        "status": "Done",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
       "id": 7,
       "type": "w2m",
-      "word": "deliverance",
+      "word": "buddhism",
       "pronunciation": "",
-      "meaning": "Sự giải thoát",
-      "answer": "Sự giải thoát",
+      "meaning": "Phật giáo",
+      "answer": "Phật giáo",
       "options": [
-        "Sự giải thoát",
         "Thanh tra",
-        "Tiền tố",
-        "Từ đồng nghĩa"
+        "Ngoài ra",
+        "Độc lập",
+        "Phật giáo"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -155,15 +155,36 @@
     {
       "id": 8,
       "type": "w2m",
+      "word": "deliverance",
+      "pronunciation": "",
+      "meaning": "Sự giải thoát",
+      "answer": "Sự giải thoát",
+      "options": [
+        "Tiền tố",
+        "Đáng tin cậy",
+        "Sự giải thoát",
+        "Hòa giải/ Đoàn tụ"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 9,
+      "type": "w2m",
       "word": "approve",
       "pronunciation": "/əˈpruːv/",
       "meaning": "chấp thuận, phê duyệt",
       "answer": "chấp thuận, phê duyệt",
       "options": [
-        "Nhận biết, nhận ra",
-        "Hậu tố",
-        "Bản tóm tắt",
-        "chấp thuận, phê duyệt"
+        "Ngoài ra",
+        "Chiến lược",
+        "chấp thuận, phê duyệt",
+        "ghi nhớ"
       ],
       "meta": {
         "partOfSpeech": "v",
@@ -174,41 +195,20 @@
       }
     },
     {
-      "id": 9,
-      "type": "w2m",
-      "word": "aside (from)",
-      "pronunciation": "",
-      "meaning": "Ngoài ra",
-      "answer": "Ngoài ra",
-      "options": [
-        "Ngoài ra",
-        "Bản tóm tắt",
-        "Kéo dài",
-        "Từ đồng nghĩa"
-      ],
-      "meta": {
-        "partOfSpeech": "adv",
-        "topic": "",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
       "id": 10,
       "type": "w2m",
-      "word": "word families",
+      "word": "inspector",
       "pronunciation": "",
-      "meaning": "Họ từ vựng",
-      "answer": "Họ từ vựng",
+      "meaning": "Thanh tra",
+      "answer": "Thanh tra",
       "options": [
-        "Bản tóm tắt",
-        "Thiết yếu",
-        "Họ từ vựng",
-        "nhiều"
+        "Từ đồng nghĩa",
+        "Thanh tra",
+        "Hậu tố",
+        "Có khả năng/ có năng lực"
       ],
       "meta": {
-        "partOfSpeech": "v",
+        "partOfSpeech": "n",
         "topic": "",
         "status": "",
         "example": "",
@@ -218,22 +218,22 @@
     {
       "id": 11,
       "type": "w2m",
-      "word": "comprehention",
+      "word": "prefix",
       "pronunciation": "",
-      "meaning": "Sự hiểu",
-      "answer": "Sự hiểu",
+      "meaning": "Tiền tố",
+      "answer": "Tiền tố",
       "options": [
-        "Có khả năng/ có năng lực",
-        "Bản tóm tắt",
-        "Thiết yếu",
-        "Sự hiểu"
+        "Tiền tố",
+        "Kéo dài",
+        "Phơi ra/ để lộ ra/ tiếp xúc",
+        "Chiến lược"
       ],
       "meta": {
         "partOfSpeech": "n",
         "topic": "Random",
-        "status": "Done",
-        "example": "After reading the passage, the teacher asked questions to test the children’s comprehension.",
-        "exampleMeaning": "Sau khi đọc đoạn văn, giáo viên hỏi các câu hỏi đểm kiểm tra độ hiểu biết của những đứa trẻ"
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
       }
     },
     {
@@ -244,10 +244,10 @@
       "meaning": "Từ đồng nghĩa",
       "answer": "Từ đồng nghĩa",
       "options": [
-        "Nhật ký/ tạp chí",
+        "Từ đồng nghĩa",
+        "chấp thuận, phê duyệt",
         "Phân loại",
-        "Phật giáo",
-        "Từ đồng nghĩa"
+        "Đáng tin cậy"
       ],
       "meta": {
         "partOfSpeech": "n",
@@ -260,15 +260,78 @@
     {
       "id": 13,
       "type": "w2m",
-      "word": "dependable",
-      "pronunciation": "/dɪˈpen.də.bəl/",
-      "meaning": "Đáng tin cậy",
-      "answer": "Đáng tin cậy",
+      "word": "strategy",
+      "pronunciation": "",
+      "meaning": "Chiến lược",
+      "answer": "Chiến lược",
       "options": [
-        "nhiều",
-        "Phơi ra/ để lộ ra/ tiếp xúc",
+        "Chiến lược",
+        "Phật giáo",
         "Đáng tin cậy",
+        "Sự hiểu"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 14,
+      "type": "w2m",
+      "word": "independence",
+      "pronunciation": "",
+      "meaning": "Độc lập",
+      "answer": "Độc lập",
+      "options": [
+        "Thiết yếu",
+        "Chiến lược",
+        "Độc lập",
         "Nhận biết, nhận ra"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 15,
+      "type": "w2m",
+      "word": "Categorize",
+      "pronunciation": "",
+      "meaning": "Phân loại",
+      "answer": "Phân loại",
+      "options": [
+        "Tiền tố",
+        "Phân loại",
+        "Bất cẩn",
+        "Sự hiểu"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 16,
+      "type": "w2m",
+      "word": "capable",
+      "pronunciation": "",
+      "meaning": "Có khả năng/ có năng lực",
+      "answer": "Có khả năng/ có năng lực",
+      "options": [
+        "Đáng tin cậy",
+        "Hòa giải/ Đoàn tụ",
+        "Có khả năng/ có năng lực",
+        "Phật giáo"
       ],
       "meta": {
         "partOfSpeech": "adj",
@@ -279,85 +342,22 @@
       }
     },
     {
-      "id": 14,
+      "id": 17,
       "type": "w2m",
-      "word": "memorize",
+      "word": "recognize",
       "pronunciation": "",
-      "meaning": "ghi nhớ",
-      "answer": "ghi nhớ",
+      "meaning": "Nhận biết, nhận ra",
+      "answer": "Nhận biết, nhận ra",
       "options": [
-        "Phơi ra/ để lộ ra/ tiếp xúc",
-        "Nhận biết, nhận ra",
-        "chấp thuận, phê duyệt",
-        "ghi nhớ"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 15,
-      "type": "w2m",
-      "word": "inspector",
-      "pronunciation": "",
-      "meaning": "Thanh tra",
-      "answer": "Thanh tra",
-      "options": [
-        "Phân loại",
-        "Hậu tố",
-        "Thanh tra",
+        "Ngoài ra",
+        "Thiết yếu",
+        "nhiều",
         "Nhận biết, nhận ra"
       ],
       "meta": {
-        "partOfSpeech": "n",
-        "topic": "",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 16,
-      "type": "w2m",
-      "word": "buddhism",
-      "pronunciation": "",
-      "meaning": "Phật giáo",
-      "answer": "Phật giáo",
-      "options": [
-        "Đáng tin cậy",
-        "Hậu tố",
-        "Sự hiểu",
-        "Phật giáo"
-      ],
-      "meta": {
-        "partOfSpeech": "n",
-        "topic": "",
-        "status": "",
-        "example": "",
-        "exampleMeaning": ""
-      }
-    },
-    {
-      "id": 17,
-      "type": "w2m",
-      "word": "Categorize",
-      "pronunciation": "",
-      "meaning": "Phân loại",
-      "answer": "Phân loại",
-      "options": [
-        "Phân loại",
-        "Nhật ký/ tạp chí",
-        "Hậu tố",
-        "Họ từ vựng"
-      ],
-      "meta": {
         "partOfSpeech": "v",
-        "topic": "",
-        "status": "",
+        "topic": "Random",
+        "status": "Done",
         "example": "",
         "exampleMeaning": ""
       }
@@ -365,15 +365,15 @@
     {
       "id": 18,
       "type": "w2m",
-      "word": "lengthen",
+      "word": "associate",
       "pronunciation": "",
-      "meaning": "Kéo dài",
-      "answer": "Kéo dài",
+      "meaning": "Liên kết",
+      "answer": "Liên kết",
       "options": [
-        "Phật giáo",
         "Thiết yếu",
-        "Phân loại",
-        "Kéo dài"
+        "nhiều",
+        "Liên kết",
+        "chấp thuận, phê duyệt"
       ],
       "meta": {
         "partOfSpeech": "v",
@@ -386,18 +386,18 @@
     {
       "id": 19,
       "type": "w2m",
-      "word": "independence",
+      "word": "memorize",
       "pronunciation": "",
-      "meaning": "Độc lập",
-      "answer": "Độc lập",
+      "meaning": "ghi nhớ",
+      "answer": "ghi nhớ",
       "options": [
-        "Chiến lược",
-        "Phơi ra/ để lộ ra/ tiếp xúc",
-        "Độc lập",
-        "Hòa giải/ Đoàn tụ"
+        "ghi nhớ",
+        "Sự hiểu",
+        "Kéo dài",
+        "Liên kết"
       ],
       "meta": {
-        "partOfSpeech": "n",
+        "partOfSpeech": "v",
         "topic": "",
         "status": "",
         "example": "",
@@ -407,36 +407,36 @@
     {
       "id": 20,
       "type": "w2m",
-      "word": "summary",
-      "pronunciation": "/ˈsʌm.ər.i/",
-      "meaning": "Bản tóm tắt",
-      "answer": "Bản tóm tắt",
+      "word": "reunite",
+      "pronunciation": "",
+      "meaning": "Hòa giải/ Đoàn tụ",
+      "answer": "Hòa giải/ Đoàn tụ",
       "options": [
-        "Từ đồng nghĩa",
+        "Đáng tin cậy",
         "Bản tóm tắt",
-        "Tiền tố",
-        "Phật giáo"
+        "Có khả năng/ có năng lực",
+        "Hòa giải/ Đoàn tụ"
       ],
       "meta": {
-        "partOfSpeech": "n",
-        "topic": "",
+        "partOfSpeech": "v",
+        "topic": "Random",
         "status": "",
-        "example": "",
-        "exampleMeaning": ""
+        "example": "Sarah was finally reunited with her children at the airport.",
+        "exampleMeaning": "Cuối cùng Sarah cũng được đoàn tụ với các con của mình tại sân bay."
       }
     },
     {
       "id": 21,
       "type": "w2m",
-      "word": "associate",
+      "word": "refrigerate",
       "pronunciation": "",
-      "meaning": "Liên kết",
-      "answer": "Liên kết",
+      "meaning": "Làm lạnh",
+      "answer": "Làm lạnh",
       "options": [
-        "Hòa giải/ Đoàn tụ",
-        "Liên kết",
-        "Ngoài ra",
-        "Thiết yếu"
+        "Làm lạnh",
+        "Bản tóm tắt",
+        "Phật giáo",
+        "Chiến lược"
       ],
       "meta": {
         "partOfSpeech": "v",
@@ -449,36 +449,15 @@
     {
       "id": 22,
       "type": "w2m",
-      "word": "reunite",
-      "pronunciation": "",
-      "meaning": "Hòa giải/ Đoàn tụ",
-      "answer": "Hòa giải/ Đoàn tụ",
-      "options": [
-        "Phơi ra/ để lộ ra/ tiếp xúc",
-        "Hòa giải/ Đoàn tụ",
-        "Ngoài ra",
-        "Sự giải thoát"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "Random",
-        "status": "",
-        "example": "Sarah was finally reunited with her children at the airport.",
-        "exampleMeaning": "Cuối cùng Sarah cũng được đoàn tụ với các con của mình tại sân bay."
-      }
-    },
-    {
-      "id": 23,
-      "type": "w2m",
       "word": "several",
       "pronunciation": "",
       "meaning": "nhiều",
       "answer": "nhiều",
       "options": [
         "Thiết yếu",
+        "Nhận biết, nhận ra",
         "nhiều",
-        "Kéo dài",
-        "chấp thuận, phê duyệt"
+        "Hòa giải/ Đoàn tụ"
       ],
       "meta": {
         "partOfSpeech": "adj",
@@ -489,17 +468,59 @@
       }
     },
     {
+      "id": 23,
+      "type": "w2m",
+      "word": "essential",
+      "pronunciation": "",
+      "meaning": "Thiết yếu",
+      "answer": "Thiết yếu",
+      "options": [
+        "Có khả năng/ có năng lực",
+        "Chiến lược",
+        "Thiết yếu",
+        "Nhận biết, nhận ra"
+      ],
+      "meta": {
+        "partOfSpeech": "adj",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
       "id": 24,
       "type": "w2m",
-      "word": "refrigerate",
+      "word": "comprehention",
       "pronunciation": "",
-      "meaning": "Làm lạnh",
-      "answer": "Làm lạnh",
+      "meaning": "Sự hiểu",
+      "answer": "Sự hiểu",
       "options": [
-        "Thanh tra",
-        "Có khả năng/ có năng lực",
-        "Làm lạnh",
-        "Nhật ký/ tạp chí"
+        "Bản tóm tắt",
+        "Phân loại",
+        "Sự hiểu",
+        "Thanh tra"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Random",
+        "status": "Done",
+        "example": "After reading the passage, the teacher asked questions to test the children’s comprehension.",
+        "exampleMeaning": "Sau khi đọc đoạn văn, giáo viên hỏi các câu hỏi đểm kiểm tra độ hiểu biết của những đứa trẻ"
+      }
+    },
+    {
+      "id": 25,
+      "type": "w2m",
+      "word": "word families",
+      "pronunciation": "",
+      "meaning": "Họ từ vựng",
+      "answer": "Họ từ vựng",
+      "options": [
+        "Nhận biết, nhận ra",
+        "Bất cẩn",
+        "Họ từ vựng",
+        "Làm lạnh"
       ],
       "meta": {
         "partOfSpeech": "v",
@@ -510,27 +531,6 @@
       }
     },
     {
-      "id": 25,
-      "type": "w2m",
-      "word": "expose",
-      "pronunciation": "",
-      "meaning": "Phơi ra/ để lộ ra/ tiếp xúc",
-      "answer": "Phơi ra/ để lộ ra/ tiếp xúc",
-      "options": [
-        "Phân loại",
-        "Phơi ra/ để lộ ra/ tiếp xúc",
-        "Độc lập",
-        "Kéo dài"
-      ],
-      "meta": {
-        "partOfSpeech": "v",
-        "topic": "Random",
-        "status": "",
-        "example": "The plaster on the walls has been removed to expose the original bricks underneath.",
-        "exampleMeaning": "Lớp vữa trát trên tường đã được loại bỏ để lộ ra những viên gạch nguyên bản bên dưới."
-      }
-    },
-    {
       "id": 26,
       "type": "w2m",
       "word": "careless",
@@ -538,9 +538,9 @@
       "meaning": "Bất cẩn",
       "answer": "Bất cẩn",
       "options": [
-        "Bản tóm tắt",
         "Có khả năng/ có năng lực",
-        "Hậu tố",
+        "Nhận biết, nhận ra",
+        "Ngoài ra",
         "Bất cẩn"
       ],
       "meta": {
@@ -554,19 +554,19 @@
     {
       "id": 27,
       "type": "w2m",
-      "word": "suffix",
+      "word": "aside (from)",
       "pronunciation": "",
-      "meaning": "Hậu tố",
-      "answer": "Hậu tố",
+      "meaning": "Ngoài ra",
+      "answer": "Ngoài ra",
       "options": [
-        "Thanh tra",
-        "Liên kết",
         "Hậu tố",
-        "Thiết yếu"
+        "Sự giải thoát",
+        "Ngoài ra",
+        "Nhận biết, nhận ra"
       ],
       "meta": {
-        "partOfSpeech": "n",
-        "topic": "Random",
+        "partOfSpeech": "adv",
+        "topic": "",
         "status": "",
         "example": "",
         "exampleMeaning": ""

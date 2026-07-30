@@ -1,0 +1,27 @@
+{
+  "date": "2026-07-30",
+  "createdAt": "2026-07-30T00:02:23.465Z",
+  "source": "new_words_since_snapshot",
+  "totalWords": 108,
+  "newWordsCount": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "w2m",
+      "word": "department",
+      "pronunciation": "",
+      "meaning": "Phòng ban/Ngành/Chi nhánh",
+      "answer": "Phòng ban/Ngành/Chi nhánh",
+      "options": [
+        "Phòng ban/Ngành/Chi nhánh"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    }
+  ]
+}

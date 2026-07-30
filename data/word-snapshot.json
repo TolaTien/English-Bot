@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T23:59:44.729Z",
+  "updatedAt": "2026-07-30T00:02:25.860Z",
   "words": [
     {
       "term": "approve",
@@ -1172,6 +1172,17 @@
       "pronunciation": "",
       "type": "n",
       "meaning": "Sự đổi mới",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "department",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Phòng ban/Ngành/Chi nhánh",
       "example": "",
       "exampleMeaning": "",
       "topic": "Random",

@@ -1,0 +1,177 @@
+{
+  "date": "2026-08-05",
+  "createdAt": "2026-08-05T00:05:36.302Z",
+  "source": "new_words_since_snapshot",
+  "totalWords": 116,
+  "newWordsCount": 8,
+  "questions": [
+    {
+      "id": 1,
+      "type": "w2m",
+      "word": "demand (n)",
+      "pronunciation": "",
+      "meaning": "Nhu cầu",
+      "answer": "Nhu cầu",
+      "options": [
+        "Thời trang/mốt",
+        "Nhu cầu",
+        "Yêu cầu",
+        "Nguyên liệu/thành phần"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 2,
+      "type": "w2m",
+      "word": "ingredient",
+      "pronunciation": "",
+      "meaning": "Nguyên liệu/thành phần",
+      "answer": "Nguyên liệu/thành phần",
+      "options": [
+        "Dầu gội đầu",
+        "Mua",
+        "Tiếp thị",
+        "Nguyên liệu/thành phần"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 3,
+      "type": "w2m",
+      "word": "fashion",
+      "pronunciation": "/ʃæmˈpuː/",
+      "meaning": "Thời trang/mốt",
+      "answer": "Thời trang/mốt",
+      "options": [
+        "Nhu cầu",
+        "Thời trang/mốt",
+        "Mở rộng",
+        "Mua"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 4,
+      "type": "w2m",
+      "word": "demand (v)",
+      "pronunciation": "",
+      "meaning": "Yêu cầu",
+      "answer": "Yêu cầu",
+      "options": [
+        "Thời trang/mốt",
+        "Yêu cầu",
+        "Mở rộng",
+        "Nguyên liệu/thành phần"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 5,
+      "type": "w2m",
+      "word": "purchase",
+      "pronunciation": "/ˈpɜː.tʃəs/",
+      "meaning": "Mua",
+      "answer": "Mua",
+      "options": [
+        "Mở rộng",
+        "Tiếp thị",
+        "Nguyên liệu/thành phần",
+        "Mua"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 6,
+      "type": "w2m",
+      "word": "branch out",
+      "pronunciation": "",
+      "meaning": "Mở rộng",
+      "answer": "Mở rộng",
+      "options": [
+        "Mở rộng",
+        "Tiếp thị",
+        "Nguyên liệu/thành phần",
+        "Yêu cầu"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 7,
+      "type": "w2m",
+      "word": "shampoo",
+      "pronunciation": "/ʃæmˈpuː/",
+      "meaning": "Dầu gội đầu",
+      "answer": "Dầu gội đầu",
+      "options": [
+        "Mở rộng",
+        "Yêu cầu",
+        "Dầu gội đầu",
+        "Tiếp thị"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "Random",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 8,
+      "type": "w2m",
+      "word": "marketing",
+      "pronunciation": "",
+      "meaning": "Tiếp thị",
+      "answer": "Tiếp thị",
+      "options": [
+        "Mở rộng",
+        "Dầu gội đầu",
+        "Tiếp thị",
+        "Yêu cầu"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    }
+  ]
+}

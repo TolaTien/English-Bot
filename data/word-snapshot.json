@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T00:11:13.568Z",
+  "updatedAt": "2026-08-05T00:05:37.926Z",
   "words": [
     {
       "term": "approve",
@@ -1186,6 +1186,94 @@
       "example": "",
       "exampleMeaning": "",
       "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "purchase",
+      "pronunciation": "/ˈpɜː.tʃəs/",
+      "type": "v",
+      "meaning": "Mua",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "shampoo",
+      "pronunciation": "/ʃæmˈpuː/",
+      "type": "n",
+      "meaning": "Dầu gội đầu",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "demand (n)",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Nhu cầu",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "Random",
+      "status": "",
+      "note": "demand = market"
+    },
+    {
+      "term": "demand (v)",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Yêu cầu",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "fashion",
+      "pronunciation": "/ʃæmˈpuː/",
+      "type": "n",
+      "meaning": "Thời trang/mốt",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "branch out",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Mở rộng",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "ingredient",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Nguyên liệu/thành phần",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "marketing",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Tiếp thị",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
       "status": "",
       "note": ""
     }

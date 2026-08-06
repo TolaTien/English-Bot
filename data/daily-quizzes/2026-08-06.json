@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-06",
+  "createdAt": "2026-08-06T00:01:11.816Z",
+  "source": "new_words_since_snapshot",
+  "totalWords": 117,
+  "newWordsCount": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "w2m",
+      "word": "warranty",
+      "pronunciation": "",
+      "meaning": "Bảo hành/ Sự đảm bảo",
+      "answer": "Bảo hành/ Sự đảm bảo",
+      "options": [
+        "Bảo hành/ Sự đảm bảo"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    }
+  ]
+}

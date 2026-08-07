@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T00:01:14.558Z",
+  "updatedAt": "2026-08-07T01:41:57.177Z",
   "words": [
     {
       "term": "approve",
@@ -1282,6 +1282,160 @@
       "pronunciation": "",
       "type": "n",
       "meaning": "Bảo hành/ Sự đảm bảo",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "characteristic",
+      "pronunciation": "/ˌkær.ək.təˈrɪs.tɪk/",
+      "type": "n",
+      "meaning": "Đặc điểm/Nét đặc trưng",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "consequence",
+      "pronunciation": "/ˈkɒn.sɪ.kwəns/",
+      "type": "n",
+      "meaning": "Hậu quả/Kết quả",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "consider",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Cân nhắc",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "cover",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Bao bì/Bảo hộ/Kiểm soát",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "expiration",
+      "pronunciation": "/ˌek.spɪˈreɪ.ʃən/",
+      "type": "n",
+      "meaning": "Hết hạn/Hạn sử dụng",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "fire (v)",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Sa thải",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "fire (n)",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Ngọn lửa",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "frequently",
+      "pronunciation": "",
+      "type": "adv",
+      "meaning": "Thường thường",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "Regularity",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Tính thường xuyên",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "imply",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Hàm ý/Ẩn ý/Nói bóng",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "promise",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Hứa hẹn",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "reputation",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Sự nổi tiếng/Danh tiếng",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "Require",
+      "pronunciation": "",
+      "type": "n",
+      "meaning": "Yêu cầu",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "variety",
+      "pronunciation": "/vəˈraɪ.ə.ti/",
+      "type": "n",
+      "meaning": "Đa dạng/Phong phú",
       "example": "",
       "exampleMeaning": "",
       "topic": "",

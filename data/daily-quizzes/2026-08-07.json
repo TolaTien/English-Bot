@@ -1,0 +1,303 @@
+{
+  "date": "2026-08-07",
+  "createdAt": "2026-08-07T01:41:55.153Z",
+  "source": "new_words_since_snapshot",
+  "totalWords": 131,
+  "newWordsCount": 14,
+  "questions": [
+    {
+      "id": 1,
+      "type": "w2m",
+      "word": "Require",
+      "pronunciation": "",
+      "meaning": "Yêu cầu",
+      "answer": "Yêu cầu",
+      "options": [
+        "Sa thải",
+        "Hứa hẹn",
+        "Yêu cầu",
+        "Đặc điểm/Nét đặc trưng"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 2,
+      "type": "w2m",
+      "word": "fire (n)",
+      "pronunciation": "",
+      "meaning": "Ngọn lửa",
+      "answer": "Ngọn lửa",
+      "options": [
+        "Đa dạng/Phong phú",
+        "Thường thường",
+        "Ngọn lửa",
+        "Hứa hẹn"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 3,
+      "type": "w2m",
+      "word": "variety",
+      "pronunciation": "/vəˈraɪ.ə.ti/",
+      "meaning": "Đa dạng/Phong phú",
+      "answer": "Đa dạng/Phong phú",
+      "options": [
+        "Sa thải",
+        "Hàm ý/Ẩn ý/Nói bóng",
+        "Đa dạng/Phong phú",
+        "Ngọn lửa"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 4,
+      "type": "w2m",
+      "word": "expiration",
+      "pronunciation": "/ˌek.spɪˈreɪ.ʃən/",
+      "meaning": "Hết hạn/Hạn sử dụng",
+      "answer": "Hết hạn/Hạn sử dụng",
+      "options": [
+        "Ngọn lửa",
+        "Sự nổi tiếng/Danh tiếng",
+        "Hết hạn/Hạn sử dụng",
+        "Tính thường xuyên"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 5,
+      "type": "w2m",
+      "word": "consider",
+      "pronunciation": "",
+      "meaning": "Cân nhắc",
+      "answer": "Cân nhắc",
+      "options": [
+        "Yêu cầu",
+        "Ngọn lửa",
+        "Cân nhắc",
+        "Thường thường"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 6,
+      "type": "w2m",
+      "word": "Regularity",
+      "pronunciation": "",
+      "meaning": "Tính thường xuyên",
+      "answer": "Tính thường xuyên",
+      "options": [
+        "Tính thường xuyên",
+        "Cân nhắc",
+        "Ngọn lửa",
+        "Hứa hẹn"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 7,
+      "type": "w2m",
+      "word": "characteristic",
+      "pronunciation": "/ˌkær.ək.təˈrɪs.tɪk/",
+      "meaning": "Đặc điểm/Nét đặc trưng",
+      "answer": "Đặc điểm/Nét đặc trưng",
+      "options": [
+        "Đặc điểm/Nét đặc trưng",
+        "Hết hạn/Hạn sử dụng",
+        "Tính thường xuyên",
+        "Sự nổi tiếng/Danh tiếng"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 8,
+      "type": "w2m",
+      "word": "reputation",
+      "pronunciation": "",
+      "meaning": "Sự nổi tiếng/Danh tiếng",
+      "answer": "Sự nổi tiếng/Danh tiếng",
+      "options": [
+        "Cân nhắc",
+        "Sa thải",
+        "Hàm ý/Ẩn ý/Nói bóng",
+        "Sự nổi tiếng/Danh tiếng"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 9,
+      "type": "w2m",
+      "word": "promise",
+      "pronunciation": "",
+      "meaning": "Hứa hẹn",
+      "answer": "Hứa hẹn",
+      "options": [
+        "Hứa hẹn",
+        "Ngọn lửa",
+        "Hết hạn/Hạn sử dụng",
+        "Hàm ý/Ẩn ý/Nói bóng"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 10,
+      "type": "w2m",
+      "word": "cover",
+      "pronunciation": "",
+      "meaning": "Bao bì/Bảo hộ/Kiểm soát",
+      "answer": "Bao bì/Bảo hộ/Kiểm soát",
+      "options": [
+        "Bao bì/Bảo hộ/Kiểm soát",
+        "Hậu quả/Kết quả",
+        "Hứa hẹn",
+        "Yêu cầu"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 11,
+      "type": "w2m",
+      "word": "frequently",
+      "pronunciation": "",
+      "meaning": "Thường thường",
+      "answer": "Thường thường",
+      "options": [
+        "Hứa hẹn",
+        "Đặc điểm/Nét đặc trưng",
+        "Đa dạng/Phong phú",
+        "Thường thường"
+      ],
+      "meta": {
+        "partOfSpeech": "adv",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 12,
+      "type": "w2m",
+      "word": "fire (v)",
+      "pronunciation": "",
+      "meaning": "Sa thải",
+      "answer": "Sa thải",
+      "options": [
+        "Bao bì/Bảo hộ/Kiểm soát",
+        "Hứa hẹn",
+        "Sa thải",
+        "Cân nhắc"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 13,
+      "type": "w2m",
+      "word": "consequence",
+      "pronunciation": "/ˈkɒn.sɪ.kwəns/",
+      "meaning": "Hậu quả/Kết quả",
+      "answer": "Hậu quả/Kết quả",
+      "options": [
+        "Hàm ý/Ẩn ý/Nói bóng",
+        "Hết hạn/Hạn sử dụng",
+        "Hậu quả/Kết quả",
+        "Thường thường"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    },
+    {
+      "id": 14,
+      "type": "w2m",
+      "word": "imply",
+      "pronunciation": "",
+      "meaning": "Hàm ý/Ẩn ý/Nói bóng",
+      "answer": "Hàm ý/Ẩn ý/Nói bóng",
+      "options": [
+        "Hàm ý/Ẩn ý/Nói bóng",
+        "Sa thải",
+        "Tính thường xuyên",
+        "Hậu quả/Kết quả"
+      ],
+      "meta": {
+        "partOfSpeech": "v",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    }
+  ]
+}

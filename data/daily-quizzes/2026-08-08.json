@@ -1,0 +1,27 @@
+{
+  "date": "2026-08-08",
+  "createdAt": "2026-08-08T23:31:27.303Z",
+  "source": "new_words_since_snapshot",
+  "totalWords": 132,
+  "newWordsCount": 1,
+  "questions": [
+    {
+      "id": 1,
+      "type": "w2m",
+      "word": "toaster",
+      "pronunciation": "",
+      "meaning": "Máy nướng bánh mì",
+      "answer": "Máy nướng bánh mì",
+      "options": [
+        "Máy nướng bánh mì"
+      ],
+      "meta": {
+        "partOfSpeech": "n",
+        "topic": "",
+        "status": "",
+        "example": "",
+        "exampleMeaning": ""
+      }
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T23:44:04.199Z",
+  "updatedAt": "2026-08-13T23:43:31.387Z",
   "words": [
     {
       "term": "approve",
@@ -806,12 +806,12 @@
     },
     {
       "term": "hesitate",
-      "pronunciation": "ˈhezəˌtāt",
+      "pronunciation": "",
       "type": "v",
       "meaning": "Do dự",
       "example": "",
       "exampleMeaning": "",
-      "topic": "Random",
+      "topic": "",
       "status": "",
       "note": ""
     },
@@ -1447,6 +1447,83 @@
       "pronunciation": "",
       "type": "n",
       "meaning": "Máy nướng bánh mì",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "address (v)",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Trình bày, diễn giải",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "avoid",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Tránh xa",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "demonstrate",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Chứng minh, giải thích",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "develop",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Phát triển",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "evaluate",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Đánh giá, Định giá",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "gather",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Tổng kết, thu thập ý kiến",
+      "example": "",
+      "exampleMeaning": "",
+      "topic": "",
+      "status": "",
+      "note": ""
+    },
+    {
+      "term": "offer",
+      "pronunciation": "",
+      "type": "v",
+      "meaning": "Đề nghị, gợi ý",
       "example": "",
       "exampleMeaning": "",
       "topic": "",
